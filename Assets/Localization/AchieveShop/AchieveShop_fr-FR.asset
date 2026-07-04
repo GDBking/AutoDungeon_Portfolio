@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AchieveShop_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 75620a3ab84ed9f4ab92a254830aa398, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 950483532873728
+    m_Localized: "Fragment de l\u2019\xE9ternit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 952213532278784
+    m_Localized: 'Fragments requis : 2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 952215272914944
+    m_Localized: 'Fragments requis : 3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 952217219072000
+    m_Localized: 'Fragments requis : 4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 952220847144960
+    m_Localized: 'Fragments requis : 5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 952301281312768
+    m_Localized: 'Fragments requis : 6'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Infomation_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: f3f2512d18d021b4684a0fedb0afe40b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6217498624
+    m_Localized: "Rel\xEDquia aliada (Superior)\n\n- Peso -\n\nA probabilidade relativa
+      de que esta rel\xEDquia seja selecionada.\nUm valor mais alto aumenta a chance
+      de ser escolhida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7903608832
+    m_Localized: "Rel\xEDquia aliada (Inferior)\n\n- Contagem de unidades possu\xEDdas
+      -\n\nO n\xFAmero de unidades que voc\xEA possui atualmente afetadas por esta
+      rel\xEDquia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9510027264
+    m_Localized: "Rel\xEDquia inimiga (superior)\n\n- Multiplicador de debuff -\n\nSe
+      esta rel\xEDquia for aplicada, as estat\xEDsticas da unidade alvo s\xE3o reduzidas
+      por essa propor\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155867552382976
+    m_Localized: "[Frenesi]\nAtaca unidades aliadas (n\xE3o usa habilidades)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155862833790976
+    m_Localized: '[Bloqueio de cura]
+
+      Cura desativada'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155872484884480
+    m_Localized: '[Efeitos de status]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155848078229504
+    m_Localized: '[Queimadura]
+
+      Cura recebida reduzida em 40%, ataque reduzido
+      em 10%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155851471421440
+    m_Localized: "[Vincula\xE7\xE3o]\nN\xE3o \xE9 poss\xEDvel mover; ataques ou uso
+      de habilidades dentro do alcance ainda s\xE3o poss\xEDveis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155853790871552
+    m_Localized: "[Atordoamento]\nN\xE3o \xE9 poss\xEDvel mover, atacar ou usar habilidades"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155855816720384
+    m_Localized: '[Veneno]
+
+      Velocidade de ataque reduzida em 25%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155857423138816
+    m_Localized: "[Sil\xEAncio]\nCarregamento de mana e uso de habilidades desativados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155859243466752
+    m_Localized: '[Sangramento]
+
+      Ataque e defesa reduzidos em 15%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155860891828224
+    m_Localized: "[Provoca\xE7\xE3o]\nObriga inimigos a mirar esta unidade com ataques"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155865136463872
+    m_Localized: "[Fascina\xE7\xE3o]\nIncapaz de atacar"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

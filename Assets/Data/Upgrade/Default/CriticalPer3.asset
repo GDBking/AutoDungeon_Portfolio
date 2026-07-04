@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d53f271d4b2d744889e13e8c7b2343e, type: 3}
+  m_Name: CriticalPer3
+  m_EditorClassIdentifier: 
+  upgradeType: 6
+  upgradeName: "\uCE58\uBA85\uD0C0 \uD655\uB960 \uC99D\uAC00"
+  description: "\uCE58\uBA85\uD0C0 \uD655\uB960\uC774 {0}%p \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  ENupgradeName: Critical Chance Increase
+  ENdescription: Critical chance increases by {0} percentage points.
+  FRUpgradeName: Augmentation du taux de coup critique
+  FRDescription: Le taux de coup critique augmente de {0} points de pourcentage.
+  ITUpgradeName: "Aumento della probabilit\xE0 di critico"
+  ITDescription: "La probabilit\xE0 di critico aumenta di {0} punti percentuali."
+  DEUpgradeName: "Erh\xF6hung der Kritischen Trefferchance"
+  DEDescription: Die kritische Trefferchance steigt um {0} Prozentpunkte.
+  ESUpgradeName: "Aumento de probabilidad de cr\xEDtico"
+  ESDescription: "La probabilidad de cr\xEDtico aumenta {0} puntos porcentuales."
+  JAUpgradeName: "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u78BA\u7387\u5897\u52A0"
+  JADescription: "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u78BA\u7387\u304C{0}\u30D1\u30FC\u30BB\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u5897\u52A0\u3057\u307E\u3059\u3002"
+  PT_BRUpgradeName: "Aumento da Chance de Cr\xEDtico"
+  PT_BRDescription: "A chance de cr\xEDtico aumenta {0} pontos percentuais."
+  RUUpgradeName: "\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u0438\u0435 \u0448\u0430\u043D\u0441\u0430
+    \u043A\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0443\u0434\u0430\u0440\u0430"
+  RUDescription: "\u0428\u0430\u043D\u0441 \u043A\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E
+    \u0443\u0434\u0430\u0440\u0430 \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044F
+    \u043D\u0430 {0} \u043F\u0440\u043E\u0446\u0435\u043D\u0442\u043D\u044B\u0445
+    \u043F\u0443\u043D\u043A\u0442\u043E\u0432."
+  ZH_HANSUpgradeName: "\u66B4\u51FB\u7387\u589E\u52A0"
+  ZH_HANSDescription: "\u66B4\u51FB\u7387\u589E\u52A0{0}\u4E2A\u767E\u5206\u70B9\u3002"
+  icon: {fileID: 21300000, guid: fdaf47c38a7ed5f4f88528052f92789d, type: 3}
+  value: 20

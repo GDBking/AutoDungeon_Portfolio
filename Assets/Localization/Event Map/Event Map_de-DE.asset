@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Event Map_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 62a0011679a3bed4298686c024fb7a5e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4170678272
+    m_Localized: Tauschen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5772902400
+    m_Localized: Beten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7400292352
+    m_Localized: Handeln
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9249980416
+    m_Localized: Trinken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1326441791488
+    m_Localized: Spenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468817440768
+    m_Localized: Alles einsammeln
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1541953519616
+    m_Localized: Verlassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1639394680733696
+    m_Localized: Duplizieren
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

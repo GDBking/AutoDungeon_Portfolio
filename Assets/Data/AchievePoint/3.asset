@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 0}
+  Title: "\uC870\uAC01 \uC815\uD654"
+  Desc: "\uB4DC\uB85C\uC6B0\uB41C \uC870\uAC01\uC744 200G\uB97C \uC9C0\uBD88\uD558\uACE0
+    \uC81C\uAC70\uD558\uBA70, \uC0C8\uB85C\uC6B4 \uC870\uAC01\uC744 \uB4DC\uB85C\uC6B0\uD560
+    \uC218 \uC788\uAC8C\uB429\uB2C8\uB2E4.\n(\uD544\uB4DC\uC5D0 \uBC30\uCE58\uD55C
+    \uC720\uB2DB\uC740 G\uC9C0\uBD88 \uC5C6\uC774 \uC81C\uAC70 \uAC00\uB2A5)"
+  ENTitle: Fragment Purification
+  ENDesc: 'Spend 200G to remove a drawn Fragment and draw a new one.
+
+    (Units
+    deployed on the field can be removed without spending G.)'
+  FRTitle: Purification des Fragments
+  FRDesc: "D\xE9pensez 200G pour supprimer un Fragment tir\xE9 et en obtenir un nouveau.\n(Les
+    unit\xE9s d\xE9ploy\xE9es sur le terrain peuvent \xEAtre retir\xE9es sans d\xE9penser
+    de G.)"
+  ITTitle: Purificazione dei Frammenti
+  ITDesc: "Spendi 200G per rimuovere un Frammento ottenuto e pescarne uno nuovo.\n(Le
+    unit\xE0 schierate sul campo possono essere rimosse senza spendere G.)"
+  DETitle: Fragmentreinigung
+  DEDesc: "Gib 200G aus, um ein gezogenes Fragment zu entfernen und ein neues zu
+    ziehen.\n(Auf dem Feld platzierte Einheiten k\xF6nnen ohne G-Kosten entfernt
+    werden.)"
+  ESTitle: "Purificaci\xF3n de Fragmentos"
+  ESDesc: 'Gasta 200G para eliminar un Fragmento obtenido y robar uno nuevo.
+
+    (Las
+    unidades desplegadas en el campo pueden retirarse sin gastar G.)'
+  JATitle: "\u6B20\u7247\u6D44\u5316"
+  JADesc: "200G\u3092\u652F\u6255\u3044\u3001\u30C9\u30ED\u30FC\u3057\u305F\u6B20\u7247\u3092\u9664\u53BB\u3057\u3066\u65B0\u305F\u306A\u6B20\u7247\u3092\u5F15\u3051\u308B\u3088\u3046\u306B\u306A\u308A\u307E\u3059\u3002\n\uFF08\u30D5\u30A3\u30FC\u30EB\u30C9\u306B\u914D\u7F6E\u3057\u305F\u30E6\u30CB\u30C3\u30C8\u306FG\u3092\u652F\u6255\u308F\u305A\u306B\u64A4\u53BB\u3067\u304D\u307E\u3059\u3002\uFF09"
+  PT_BRTitle: "Purifica\xE7\xE3o de Fragmentos"
+  PT_BRDesc: 'Gaste 200G para remover um Fragmento obtido e comprar um novo.
+
+    (Unidades
+    posicionadas no campo podem ser removidas sem custo de G.)'
+  RUTitle: "\u041E\u0447\u0438\u0449\u0435\u043D\u0438\u0435 \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432"
+  RUDesc: "\u041F\u043E\u0442\u0440\u0430\u0442\u044C\u0442\u0435 200G, \u0447\u0442\u043E\u0431\u044B
+    \u0443\u0434\u0430\u043B\u0438\u0442\u044C \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u044B\u0439
+    \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442 \u0438 \u0432\u044B\u0442\u044F\u043D\u0443\u0442\u044C
+    \u043D\u043E\u0432\u044B\u0439.\n(\u042E\u043D\u0438\u0442\u044B, \u0440\u0430\u0437\u043C\u0435\u0449\u0451\u043D\u043D\u044B\u0435
+    \u043D\u0430 \u043F\u043E\u043B\u0435, \u043C\u043E\u0436\u043D\u043E \u0443\u0431\u0440\u0430\u0442\u044C
+    \u0431\u0435\u0437 \u0437\u0430\u0442\u0440\u0430\u0442 G.)"
+  ZH_HANSTitle: "\u788E\u7247\u51C0\u5316"
+  ZH_HANSDesc: "\u652F\u4ED8200G\u53EF\u79FB\u9664\u5DF2\u62BD\u53D6\u7684\u788E\u7247\uFF0C\u5E76\u91CD\u65B0\u62BD\u53D6\u65B0\u7684\u788E\u7247\u3002\n\uFF08\u5DF2\u90E8\u7F72\u5728\u573A\u4E0A\u7684\u5355\u4F4D\u53EF\u514D\u8D39\u79FB\u9664\uFF0C\u65E0\u9700\u652F\u4ED8G\u3002\uFF09"

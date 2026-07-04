@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 27.Achievement
+  m_EditorClassIdentifier: 
+  ID: 27
+  Icon: {fileID: 21300000, guid: 351c6529a0a6b594ca9ea7caaf7a5acc, type: 3}
+  Title: "\uC120\uC758\uC758 \uBCF4\uB2F5"
+  Desc: "\uBCA0\uD47C \uB9C8\uC74C\uC774 \uB73B\uBC16\uC758 \uACB0\uACFC\uB85C \uB3CC\uC544\uC654\uC2B5\uB2C8\uB2E4."
+  ENTitle: Kindness Returned
+  ENDesc: A generous heart returned in an unexpected way.
+  FRTitle: "Bont\xE9 rendue"
+  FRDesc: "Un c\u0153ur g\xE9n\xE9reux est revenu d\u2019une mani\xE8re inattendue."
+  ITTitle: Gentilezza ricambiata
+  ITDesc: "Un cuore generoso \xE8 tornato in modo inaspettato."
+  DETitle: "Erwiderte G\xFCte"
+  DEDesc: "Gro\xDFz\xFCgigkeit kehrte auf unerwartete Weise zur\xFCck."
+  ESTitle: Bondad correspondida
+  ESDesc: "Un coraz\xF3n generoso regres\xF3 de forma inesperada."
+  JATitle: "\u9084\u308B\u5584\u610F"
+  JADesc: "\u5584\u610F\u306F\u601D\u3044\u304C\u3051\u306A\u3044\u5F62\u3067\u623B\u3063\u3066\u304D\u305F\u3002"
+  PT_BRTitle: Bondade Retornada
+  PT_BRDesc: A bondade voltou de forma inesperada.
+  RUTitle: "\u0412\u043E\u0437\u0432\u0440\u0430\u0449\u0451\u043D\u043D\u0430\u044F
+    \u0434\u043E\u0431\u0440\u043E\u0442\u0430"
+  RUDesc: "\u0414\u043E\u0431\u0440\u043E \u0432\u0435\u0440\u043D\u0443\u043B\u043E\u0441\u044C
+    \u043D\u0435\u043E\u0436\u0438\u0434\u0430\u043D\u043D\u044B\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C."
+  ZH_HANSTitle: "\u56DE\u5F52\u7684\u5584\u610F"
+  ZH_HANSDesc: "\u5584\u610F\u4EE5\u610F\u60F3\u4E0D\u5230\u7684\u65B9\u5F0F\u5F52\u6765\u3002"

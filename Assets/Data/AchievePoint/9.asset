@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 9
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 0}
+  Title: "\uD55C\uACC4 \uB3CC\uD30CII"
+  Desc: "\uC720\uB2DB \uC870\uAC01 \uC5C5\uADF8\uB808\uC774\uB4DC \uC2DC \uB9E4\uC6B0
+    \uAC15\uD654\uB41C 3\uD2F0\uC5B4 \uC2AC\uB86F\uC774 \uB4F1\uC7A5\uD560 \uD655\uB960\uC774
+    \uC0DD\uAE41\uB2C8\uB2E4."
+  ENTitle: Limit Break II
+  ENDesc: When upgrading Unit Fragments, there is a chance for a greatly enhanced
+    Tier 3 slot to appear.
+  FRTitle: "Br\xE8che des Limites II"
+  FRDesc: "Lors de l\u2019am\xE9lioration des Fragments d\u2019unit\xE9, il existe
+    une chance de voir appara\xEEtre un emplacement de palier 3 consid\xE9rablement
+    am\xE9lior\xE9."
+  ITTitle: Superamento del Limite II
+  ITDesc: "Durante il potenziamento dei Frammenti unit\xE0, c\u2019\xE8 una probabilit\xE0
+    che compaia uno slot di livello 3 notevolmente potenziato."
+  DETitle: Limitdurchbruch II
+  DEDesc: "Beim Aufwerten von Einheitenfragmenten besteht eine Chance, dass ein stark
+    verst\xE4rkter Slot der Stufe 3 erscheint."
+  ESTitle: "Ruptura del L\xEDmite II"
+  ESDesc: Al mejorar Fragmentos de unidad, existe la probabilidad de que aparezca
+    una ranura de nivel 3 altamente mejorada.
+  JATitle: "\u9650\u754C\u7A81\u7834 II"
+  JADesc: "\u30E6\u30CB\u30C3\u30C8\u306E\u6B20\u7247\u3092\u5F37\u5316\u3059\u308B\u969B\u3001\u975E\u5E38\u306B\u5F37\u5316\u3055\u308C\u305F3\u30C6\u30A3\u30A2\u30B9\u30ED\u30C3\u30C8\u304C\u51FA\u73FE\u3059\u308B\u3053\u3068\u304C\u3042\u308A\u307E\u3059\u3002"
+  PT_BRTitle: Quebra de Limite II
+  PT_BRDesc: "Ao aprimorar Fragmentos de unidade, h\xE1 uma chance de surgir um slot
+    de Tier 3 altamente aprimorado."
+  RUTitle: "\u041F\u0440\u043E\u0440\u044B\u0432 \u043F\u0440\u0435\u0434\u0435\u043B\u0430
+    II"
+  RUDesc: "\u041F\u0440\u0438 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0438
+    \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432 \u044E\u043D\u0438\u0442\u0430
+    \u0435\u0441\u0442\u044C \u0448\u0430\u043D\u0441 \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F
+    \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u0443\u0441\u0438\u043B\u0435\u043D\u043D\u043E\u0433\u043E
+    \u0441\u043B\u043E\u0442\u0430 3-\u0433\u043E \u0443\u0440\u043E\u0432\u043D\u044F."
+  ZH_HANSTitle: "\u7A81\u7834\u6781\u9650 II"
+  ZH_HANSDesc: "\u5347\u7EA7\u5355\u4F4D\u788E\u7247\u65F6\uFF0C\u6709\u6982\u7387\u51FA\u73B0\u5927\u5E45\u5F3A\u5316\u76843\u9636\u69FD\u4F4D\u3002"

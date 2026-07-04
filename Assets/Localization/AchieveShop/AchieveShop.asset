@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: AchieveShop
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 75620a3ab84ed9f4ab92a254830aa398, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 93ca9d0fcd29ecd43b87d044d6619e97, type: 2}
+  - {fileID: 11400000, guid: b992bd3f59bb58e4aa4ff320e419a3d7, type: 2}
+  - {fileID: 11400000, guid: 5f7372a307821a243a1333c8cf9ac2ce, type: 2}
+  - {fileID: 11400000, guid: 9b780f27997c1f644a1c4b9725116ce2, type: 2}
+  - {fileID: 11400000, guid: 9504d556af892b84a8fd20d77ea2643a, type: 2}
+  - {fileID: 11400000, guid: 3977e2b87c6f5c847b0e90386edf678d, type: 2}
+  - {fileID: 11400000, guid: 0e30eea72d8b6d04d8b43d53d5a8027d, type: 2}
+  - {fileID: 11400000, guid: 7accde3c243b5014f9d48cd06a39a786, type: 2}
+  - {fileID: 11400000, guid: 116c5705b58b94e4da51dc8180cc372f, type: 2}
+  - {fileID: 11400000, guid: 38f0a1f085e2abe4ea3f7ac0046a3b9c, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

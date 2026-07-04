@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d53f271d4b2d744889e13e8c7b2343e, type: 3}
+  m_Name: Count3
+  m_EditorClassIdentifier: 
+  upgradeType: 0
+  upgradeName: "\uD604\uC0C1\uC218\uBC30 \uC720\uB2DB \uC218 \uC99D\uAC00"
+  ENupgradeName: Increase Wanted Units Count
+  description: "\uD604\uC0C1\uC218\uBC30\uC5D0 \uC62C\uB9B4 \uC801 \uC720\uB2DB\uC758
+    \uC218\uAC00 {0}\uBA85 \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  ENdescription: The number of enemy units that can be marked as Wanted increases
+    by {0}.
+  icon: {fileID: 21300000, guid: 94e3fe60d2a6bce4fb8835b6e947ccad, type: 3}
+  tier: 3
+  minValue: 3
+  maxValue: 3
+  value: 3
+  isInt: 1

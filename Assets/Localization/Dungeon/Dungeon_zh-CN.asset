@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dungeon_zh-CN
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-CN
+  m_SharedData: {fileID: 11400000, guid: ed0edd571a514d441a0276022735371b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8058798080
+    m_Localized: "\u521B\u5EFA\u57FA\u7840\u5355\u4F4D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9979789312
+    m_Localized: "\u5F00\u59CB\u6218\u6597"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399865315131392
+    m_Localized: "*\u6240\u6709\u4E8B\u4EF6\u788E\u7247\u5728\u4F7F\u7528\u4E00\u6B21\u540E\u90FD\u4F1A\u88AB\u6D88\u8017\u5E76\u6D88\u5931\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2034994467274752
+    m_Localized: "\u4F7F\u7528\u4E8B\u4EF6\u788E\u7247"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Infomation_it-IT
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it-IT
+  m_SharedData: {fileID: 11400000, guid: f3f2512d18d021b4684a0fedb0afe40b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6217498624
+    m_Localized: "Reliquia alleata (Superiore)\n\n- Peso -\n\nProbabilit\xE0 relativa
+      che questa reliquia venga scelta.\nUn valore pi\xF9 alto aumenta la probabilit\xE0
+      di essere selezionata."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7903608832
+    m_Localized: "Reliquia alleata (Inferiore)\n\n- Numero di unit\xE0 possedute
+      -\n\nIl numero di unit\xE0 che possiedi attualmente e che sono influenzate
+      da questa reliquia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9510027264
+    m_Localized: "Reliquia nemica (Superiore)\n\n- Coefficiente di debuff -\n\nSe
+      questa reliquia viene applicata, le statistiche dell\u2019unit\xE0 bersaglio
+      vengono ridotte di questa proporzione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155867552382976
+    m_Localized: "[Frenesia]\nAttacca unit\xE0 alleate (non usa abilit\xE0)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155872484884480
+    m_Localized: '[Effetti di stato]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155848078229504
+    m_Localized: '[Ustione]
+
+      Cure ricevute ridotte del 40%, attacco ridotto
+      del 10%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155851471421440
+    m_Localized: "[Legame]\nImpossibile muoversi; attacchi o uso di abilit\xE0 a
+      portata sono comunque possibili"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155853790871552
+    m_Localized: "[Stordimento]\nImpossibile muoversi, attaccare o usare abilit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155855816720384
+    m_Localized: "[Veleno]\nVelocit\xE0 d\u2019attacco ridotta del 25%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155857423138816
+    m_Localized: "[Silenzio]\nRicarica del mana e uso delle abilit\xE0 disabilitati"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155859243466752
+    m_Localized: '[Sanguinamento]
+
+      Attacco e difesa ridotti del 15%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155860891828224
+    m_Localized: "[Provocazione]\nCostringe i nemici a prendere di mira questa unit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155862833790976
+    m_Localized: "[Blocca cura]\nImpossibilit\xE0 di curarsi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155865136463872
+    m_Localized: '[Fascinazione]
+
+      Impossibile attaccare'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4258178194658957986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7539272049646151793}
+  - component: {fileID: 8892105575436790828}
+  - component: {fileID: 9196173189991432808}
+  - component: {fileID: 4114873441121072084}
+  - component: {fileID: 6654507321790676103}
+  - component: {fileID: 61159842362175505}
+  - component: {fileID: 646995405218003816}
+  m_Layer: 5
+  m_Name: MercenaryEvent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &7539272049646151793
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -15}
+  m_SizeDelta: {x: 72, y: 72}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8892105575436790828
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_CullTransparentMesh: 1
+--- !u!114 &9196173189991432808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 4f3522d0bfa725b42b98f56efaf19d24, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!225 &4114873441121072084
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &6654507321790676103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9285414f638636c4991503584ce23cea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventMaterial: {fileID: 2100000, guid: 5a2d6544864288549b35f25a5c1acc52, type: 2}
+  cardMaterial: {fileID: 2100000, guid: 80a806304ae01834c8474129ced39f45, type: 2}
+  minValue: -0.3
+  maxValue: 0.87
+  getValue: 0.87
+  eventUseClip: {fileID: 8300000, guid: 12c3089f074d82944bdcef6db9d12b7d, type: 3}
+--- !u!114 &61159842362175505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee742850ca9ca8d4c88d786d16641abb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 4
+  money: 500
+  ID: event_mercenary
+  itemName: "\uC2E0\uC758 \uC740\uCD1D"
+  desc: "\uBCF4\uC720\uD55C \uC720\uB2DB \uC870\uAC01 \uC911 \uB79C\uB364\uD55C \uC720\uB2DB
+    \uC870\uAC01 \uD558\uB098\uB97C \uBCF5\uC81C\uD574 \uD544\uB4DC\uC5D0 \uC18C\uD658\uD569\uB2C8\uB2E4."
+  ENItemName: Divine Grace
+  ENDesc: Duplicates a random unit shard from those you own and summons it to the
+    field.
+  FRItemName: "Gr\xE2ce divine"
+  FRDesc: "Duplique un fragment d'unit\xE9 al\xE9atoire parmi ceux que vous poss\xE9dez
+    et l'invoque sur le terrain."
+  ITItemName: Grazia divina
+  ITDesc: "Duplica un frammento di unit\xE0 casuale tra quelli in tuo possesso e
+    lo evoca sul campo."
+  DEItemName: "G\xF6ttliche Gnade"
+  DEDesc: "Dupliziert ein zuf\xE4lliges Einheitenfragment aus Ihrem Bestand und beschw\xF6rt
+    es aufs Feld."
+  ESItemName: Gracia divina
+  ESDesc: Duplica un fragmento de unidad aleatorio entre los que posees y lo invoca
+    en el campo.
+  JAItemName: "\u795E\u306E\u6069\u5BF5"
+  JADesc: "\u6240\u6301\u3057\u3066\u3044\u308B\u30E6\u30CB\u30C3\u30C8\u306E\u7834\u7247\u306E\u4E2D\u304B\u3089\u30E9\u30F3\u30C0\u30E0\u30671\u3064\u3092\u8907\u88FD\u3057\u3066\u30D5\u30A3\u30FC\u30EB\u30C9\u306B\u53EC\u559A\u3057\u307E\u3059\u3002"
+  PT_BRItemName: "Gra\xE7a Divina"
+  PT_BRDesc: "Duplica um fragmento de unidade aleat\xF3rio dentre os que voc\xEA
+    possui e o invoca no campo."
+  RUItemName: "\u0411\u043E\u0436\u044C\u044F \u043C\u0438\u043B\u043E\u0441\u0442\u044C"
+  RUDesc: "\u0414\u0443\u0431\u043B\u0438\u0440\u0443\u0435\u0442 \u0441\u043B\u0443\u0447\u0430\u0439\u043D\u044B\u0439
+    \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442 \u044E\u043D\u0438\u0442\u0430
+    \u0438\u0437 \u0438\u043C\u0435\u044E\u0449\u0438\u0445\u0441\u044F \u0443 \u0432\u0430\u0441
+    \u0438 \u043F\u0440\u0438\u0437\u044B\u0432\u0430\u0435\u0442 \u0435\u0433\u043E
+    \u043D\u0430 \u043F\u043E\u043B\u0435."
+  ZH_HANSItemName: "\u795E\u4E4B\u6069\u8D50"
+  ZH_HANSDesc: "\u4ECE\u60A8\u6301\u6709\u7684\u5355\u4F4D\u788E\u7247\u4E2D\u968F\u673A\u590D\u5236\u4E00\u4E2A\u788E\u7247\u5E76\u5C06\u5176\u53EC\u5524\u5230\u6218\u573A\u4E0A\u3002"
+--- !u!114 &646995405218003816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182290e2a4fd0364ea60373e4095d11f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Infomation_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: f3f2512d18d021b4684a0fedb0afe40b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6217498624
+    m_Localized: "Reliquia aliada (Superior)\n\n- Peso -\n\nLa probabilidad relativa
+      de que esta reliquia sea seleccionada.\nUn valor m\xE1s alto aumenta la posibilidad
+      de ser elegida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7903608832
+    m_Localized: "Reliquia aliada (Inferior)\n\n- N\xFAmero de unidades pose\xEDdas
+      -\n\nEl n\xFAmero de unidades que posees actualmente y que est\xE1n afectadas
+      por esta reliquia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9510027264
+    m_Localized: "Reliquia enemiga (Superior)\n\n- Multiplicador de debuff -\n\nSi
+      se aplica esta reliquia, las estad\xEDsticas de la unidad objetivo se reducen
+      en este porcentaje."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155867552382976
+    m_Localized: "[Frenes\xED]\nAtaca a unidades aliadas (no usa habilidades)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155872484884480
+    m_Localized: '[Efectos de estado]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155848078229504
+    m_Localized: "[Quemadura]\nCuraci\xF3n recibida reducida en 40 %, ataque reducido
+      en 10 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155851471421440
+    m_Localized: '[Atadura]
+
+      No puede moverse; los ataques o habilidades dentro
+      del alcance (excluyendo movimiento) siguen siendo posibles'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155853790871552
+    m_Localized: '[Aturdimiento]
+
+      No puede moverse, atacar ni usar habilidades'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155855816720384
+    m_Localized: '[Veneno]
+
+      Velocidad de ataque reducida en 25 %'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155857423138816
+    m_Localized: "[Silencio]\nCarga de man\xE1 y uso de habilidades deshabilitados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155859243466752
+    m_Localized: '[Sangrado]
+
+      Ataque y defensa reducidos en 15 %'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155860891828224
+    m_Localized: "[Provocaci\xF3n]\nObliga a los enemigos a atacar a esta unidad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155862833790976
+    m_Localized: "[Bloqueo de curaci\xF3n]\nLa curaci\xF3n est\xE1 deshabilitada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155865136463872
+    m_Localized: "[Fascinaci\xF3n]\nNo puede atacar"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

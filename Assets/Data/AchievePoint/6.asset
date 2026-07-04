@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 0}
+  Title: "\uC774\uBCA4\uD2B8 \uC99D\uD3ED"
+  Desc: "\uC774\uBCA4\uD2B8\uB9F5 \uBC29\uBB38 \uC2DC \uC774\uBCA4\uD2B8 \uC870\uAC01\uC774
+    \uCD5C\uB300 2\uAC1C\uAE4C\uC9C0 \uC0DD\uC131\uB429\uB2C8\uB2E4."
+  ENTitle: Event Amplification
+  ENDesc: When visiting an Event Map, up to 2 Event Fragments can be generated.
+  FRTitle: "Amplification d\u2019\xC9v\xE9nement"
+  FRDesc: "Lors de la visite d\u2019une carte d\u2019\xE9v\xE9nement, jusqu\u2019\xE0
+    2 Fragments d\u2019\xE9v\xE9nement peuvent \xEAtre g\xE9n\xE9r\xE9s."
+  ITTitle: Amplificazione Evento
+  ITDesc: Visitando una Mappa Evento, possono essere generati fino a 2 Frammenti
+    evento.
+  DETitle: "Ereignisverst\xE4rkung"
+  DEDesc: "Beim Besuch einer Ereigniskarte k\xF6nnen bis zu 2 Ereignisfragmente erzeugt
+    werden."
+  ESTitle: "Amplificaci\xF3n de Evento"
+  ESDesc: Al visitar un Mapa de evento, pueden generarse hasta 2 Fragmentos de evento.
+  JATitle: "\u30A4\u30D9\u30F3\u30C8\u5897\u5E45"
+  JADesc: "\u30A4\u30D9\u30F3\u30C8\u30DE\u30C3\u30D7\u8A2A\u554F\u6642\u3001\u30A4\u30D9\u30F3\u30C8\u306E\u6B20\u7247\u304C\u6700\u59272\u500B\u307E\u3067\u751F\u6210\u3055\u308C\u307E\u3059\u3002"
+  PT_BRTitle: "Amplifica\xE7\xE3o de Evento"
+  PT_BRDesc: "Ao visitar um Mapa de Evento, at\xE9 2 Fragmentos de evento podem ser
+    gerados."
+  RUTitle: "\u0423\u0441\u0438\u043B\u0435\u043D\u0438\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F"
+  RUDesc: "\u041F\u0440\u0438 \u043F\u043E\u0441\u0435\u0449\u0435\u043D\u0438\u0438
+    \u043A\u0430\u0440\u0442\u044B \u0441\u043E\u0431\u044B\u0442\u0438\u044F \u043C\u043E\u0436\u0435\u0442
+    \u043F\u043E\u044F\u0432\u0438\u0442\u044C\u0441\u044F \u0434\u043E 2 \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432
+    \u0441\u043E\u0431\u044B\u0442\u0438\u044F."
+  ZH_HANSTitle: "\u4E8B\u4EF6\u589E\u5E45"
+  ZH_HANSDesc: "\u8BBF\u95EE\u4E8B\u4EF6\u5730\u56FE\u65F6\uFF0C\u6700\u591A\u53EF\u751F\u62102\u4E2A\u4E8B\u4EF6\u788E\u7247\u3002"

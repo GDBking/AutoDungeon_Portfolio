@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96efabfa0d413f340b7e4b049eea0558, type: 3}
+  m_Name: 3.GuideEntry
+  m_EditorClassIdentifier: 
+  Title: "\uC2A4\uD0EF \uCC3D"
+  Desc: "\uC720\uB2DB\uC758 \uC2A4\uD0EF\uC744 \uD655\uC778\uD560 \uC218 \uC788\uB294
+    \uCC3D\uC785\uB2C8\uB2E4.\r\n\uC2A4\uD0EF\uC740 \uC804\uD22C \uC911\uC5D0\uB3C4
+    \uC2E4\uC2DC\uAC04\uC73C\uB85C \uC2A4\uD0EF \uCC3D\uC5D0\uC11C \uD655\uC778\uD560
+    \uC218 \uC788\uC2B5\uB2C8\uB2E4.\r\n\uC2A4\uD0EF \uC774\uBBF8\uC9C0\uC5D0 \uD45C\uC2DC\uB41C
+    \uCD08\uB85D\uC0C9 \uC22B\uC790\uB294 \uC5C5\uADF8\uB808\uC774\uB4DC \uC218\uCE58\uB97C
+    \uC758\uBBF8\uD569\uB2C8\uB2E4.\r\n\r\n<b>\uC720\uB2DB \uC774\uB984 (\uC0C1\uB2E8)</b>\r\n<b>\uCE6D\uD638(\uC720\uBB3C)</b>:
+    \uB79C\uB364\uC73C\uB85C \uBD80\uC5EC\uB418\uB294 \uCE6D\uD638\uC774\uBA70, \uAC8C\uC784\uC774
+    \uB05D\uB0A0 \uB54C\uAE4C\uC9C0 \uBCC0\uACBD\uB418\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.\r\n\r\n<b>\uC720\uB2DB
+    \uC774\uB984 (\uC88C\uCE21)</b>\r\n<b>\uB808\uBCA8</b>: \uC0C1\uC810\uC5D0\uC11C
+    \uC5C5\uADF8\uB808\uC774\uB4DC\uD560 \uC218 \uC788\uB294 \uB808\uBCA8\uC785\uB2C8\uB2E4.\r\n(\uD604\uC7AC
+    \uB808\uBCA8 / \uCD5C\uB300 \uB808\uBCA8)\r\n\r\n<b>\uC720\uB2DB \uC774\uB984
+    (\uC6B0\uCE21)</b>\r\n<b>\uCF54\uC2A4\uD2B8</b>: \uC720\uB2DB\uC744 \uC18C\uD658\uD560
+    \uB54C \uC18C\uBAA8\uB418\uB294 \uCF54\uC2A4\uD2B8\uC758 \uC591\uC785\uB2C8\uB2E4."
+  ENTitle: 
+  ENDesc: "This window displays a unit\u2019s stats. Stats can be checked in real
+    time during combat. The green numbers on the stat images indicate upgrade values.\n\n<b>Unit
+    Name (Top)</b>\n<b>Title (Relic)</b>: A randomly assigned title that does not
+    change until the end of the run.\n\n<b>Unit Name (Left)</b>\n<b>Level</b>: The
+    level that can be upgraded in the shop. (current level / max level)\n\n<b>Unit
+    Name (Right)</b>\n<b>Cost</b>: The amount of cost consumed when summoning the
+    unit."
+  FRTitle: 
+  FRDesc: "Cette fen\xEAtre affiche les statistiques d\u2019une unit\xE9. Les statistiques
+    peuvent \xEAtre consult\xE9es en temps r\xE9el pendant le combat. Les chiffres
+    verts sur les images de statistiques indiquent les valeurs d\u2019am\xE9lioration.\n\n<b>Nom
+    de l\u2019unit\xE9 (Haut)</b>\n<b>Titre (Relique)</b> : Titre attribu\xE9 al\xE9atoirement
+    qui ne change pas jusqu\u2019\xE0 la fin de la partie.\n\n<b>Nom de l\u2019unit\xE9
+    (Gauche)</b>\n<b>Niveau</b> : Niveau pouvant \xEAtre am\xE9lior\xE9 en boutique.
+    (niveau actuel / niveau max)\n\n<b>Nom de l\u2019unit\xE9 (Droite)</b>\n<b>Co\xFBt</b>
+    : Quantit\xE9 de co\xFBt consomm\xE9e lors de l\u2019invocation de l\u2019unit\xE9."
+  ITTitle: 
+  ITDesc: "Questa finestra mostra le statistiche di un\u2019unit\xE0. Le statistiche
+    possono essere visualizzate in tempo reale anche durante il combattimento. I
+    numeri verdi sulle immagini delle statistiche indicano i valori di miglioramento.\n\n<b>Nome
+    unit\xE0 (Superiore)</b>\n<b>Titolo (Reliquia)</b>: Titolo assegnato casualmente
+    che non cambia fino alla fine della partita.\n\n<b>Nome unit\xE0 (Sinistra)</b>\n<b>Livello</b>:
+    Livello che pu\xF2 essere potenziato nel negozio. (livello attuale / livello
+    massimo)\n\n<b>Nome unit\xE0 (Destra)</b>\n<b>Costo</b>: Quantit\xE0 di costo
+    consumata quando si evoca l\u2019unit\xE0."
+  DETitle: 
+  DEDesc: "Dieses Fenster zeigt die Werte einer Einheit an. Werte k\xF6nnen auch
+    w\xE4hrend des Kampfes in Echtzeit eingesehen werden. Die gr\xFCnen Zahlen in
+    den Stat-Bildern zeigen die Upgrade-Werte an.\n\n<b>Name der Einheit (Oben)</b>\n<b>Titel
+    (Relikt)</b>: Zuf\xE4llig zugewiesener Titel, der bis zum Ende des Laufs nicht
+    ge\xE4ndert wird.\n\n<b>Name der Einheit (Links)</b>\n<b>Level</b>: Level, das
+    im Shop aufger\xFCstet werden kann. (aktuelles Level / Max-Level)\n\n<b>Name
+    der Einheit (Rechts)</b>\n<b>Kosten</b>: Die beim Beschw\xF6ren der Einheit verbrauchte
+    Kostenmenge."
+  ESTitle: 
+  ESDesc: "Esta ventana muestra las estad\xEDsticas de una unidad. Las estad\xEDsticas
+    se pueden consultar en tiempo real durante el combate. Los n\xFAmeros verdes
+    en las im\xE1genes de estad\xEDsticas indican los valores de mejora.\n\n<b>Nombre
+    de la unidad (Superior)</b>\n<b>T\xEDtulo (Reliquia)</b>: Un t\xEDtulo asignado
+    al azar que no cambia hasta el final de la partida.\n\n<b>Nombre de la unidad
+    (Izquierda)</b>\n<b>Nivel</b>: Nivel que se puede mejorar en la tienda. (nivel
+    actual / nivel m\xE1ximo)\n\n<b>Nombre de la unidad (Derecha)</b>\n<b>Costo</b>:
+    La cantidad de coste consumida al invocar la unidad."
+  JATitle: 
+  JADesc: "\u3053\u306E\u30A6\u30A3\u30F3\u30C9\u30A6\u3067\u306F\u30E6\u30CB\u30C3\u30C8\u306E\u30B9\u30C6\u30FC\u30BF\u30B9\u3092\u78BA\u8A8D\u3067\u304D\u307E\u3059\u3002\u30B9\u30C6\u30FC\u30BF\u30B9\u306F\u6226\u95D8\u4E2D\u3067\u3082\u30EA\u30A2\u30EB\u30BF\u30A4\u30E0\u306B\u78BA\u8A8D\u3067\u304D\u307E\u3059\u3002\u30B9\u30C6\u30FC\u30BF\u30B9\u753B\u50CF\u306B\u8868\u793A\u3055\u308C\u305F\u7DD1\u306E\u6570\u5B57\u306F\u5F37\u5316\u5024\u3092\u793A\u3057\u307E\u3059\u3002\n\n<b>\u30E6\u30CB\u30C3\u30C8\u540D\uFF08\u4E0A\uFF09</b>\n<b>\u79F0\u53F7\uFF08\u907A\u7269\uFF09</b>:
+    \u30E9\u30F3\u30C0\u30E0\u3067\u4ED8\u4E0E\u3055\u308C\u308B\u79F0\u53F7\u3067\u3001\u30E9\u30F3\u306E\u7D42\u4E86\u307E\u3067\u5909\u66F4\u3055\u308C\u307E\u305B\u3093\u3002\n\n<b>\u30E6\u30CB\u30C3\u30C8\u540D\uFF08\u5DE6\uFF09</b>\n<b>\u30EC\u30D9\u30EB</b>:
+    \u30B7\u30E7\u30C3\u30D7\u3067\u5F37\u5316\u3067\u304D\u308B\u30EC\u30D9\u30EB\u3067\u3059\u3002\uFF08\u73FE\u5728\u306E\u30EC\u30D9\u30EB
+    / \u6700\u5927\u30EC\u30D9\u30EB\uFF09\n\n<b>\u30E6\u30CB\u30C3\u30C8\u540D\uFF08\u53F3\uFF09</b>\n<b>\u30B3\u30B9\u30C8</b>:
+    \u30E6\u30CB\u30C3\u30C8\u3092\u53EC\u559A\u3059\u308B\u969B\u306B\u6D88\u8CBB\u3055\u308C\u308B\u30B3\u30B9\u30C8\u91CF\u3067\u3059\u3002"
+  PT_BRTitle: 
+  PT_BRDesc: "Esta janela mostra as estat\xEDsticas de uma unidade. As estat\xEDsticas
+    podem ser verificadas em tempo real durante o combate. Os n\xFAmeros verdes nas
+    imagens de status indicam valores de melhoria.\n\n<b>Nome da unidade (Superior)</b>\n<b>T\xEDtulo
+    (Rel\xEDquia)</b>: Um t\xEDtulo atribu\xEDdo aleatoriamente que n\xE3o muda at\xE9
+    o fim da partida.\n\n<b>Nome da unidade (Esquerda)</b>\n<b>N\xEDvel</b>: N\xEDvel
+    que pode ser melhorado na loja. (n\xEDvel atual / n\xEDvel m\xE1ximo)\n\n<b>Nome
+    da unidade (Direita)</b>\n<b>Custo</b>: A quantidade de custo consumida ao convocar
+    a unidade."
+  RUTitle: 
+  RUDesc: "\u042D\u0442\u043E \u043E\u043A\u043D\u043E \u043F\u043E\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442
+    \u0445\u0430\u0440\u0430\u043A\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043A\u0438
+    \u044E\u043D\u0438\u0442\u0430. \u0425\u0430\u0440\u0430\u043A\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043A\u0438
+    \u043C\u043E\u0436\u043D\u043E \u043F\u0440\u043E\u0441\u043C\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044C
+    \u0432 \u0440\u0435\u0430\u043B\u044C\u043D\u043E\u043C \u0432\u0440\u0435\u043C\u0435\u043D\u0438
+    \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u0431\u043E\u044F. \u0417\u0435\u043B\u0451\u043D\u044B\u0435
+    \u0447\u0438\u0441\u043B\u0430 \u043D\u0430 \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F\u0445
+    \u0445\u0430\u0440\u0430\u043A\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043A
+    \u0443\u043A\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F
+    \u0430\u043F\u0433\u0440\u0435\u0439\u0434\u0430.\n\n<b>\u0418\u043C\u044F \u044E\u043D\u0438\u0442\u0430
+    (\u0412\u0432\u0435\u0440\u0445\u0443)</b>\n<b>\u0422\u0438\u0442\u0443\u043B
+    (\u0420\u0435\u043B\u0438\u043A\u0432\u0438\u044F)</b>: \u0421\u043B\u0443\u0447\u0430\u0439\u043D\u043E
+    \u043F\u0440\u0438\u0441\u0432\u043E\u0435\u043D\u043D\u044B\u0439 \u0442\u0438\u0442\u0443\u043B,
+    \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043D\u0435 \u043C\u0435\u043D\u044F\u0435\u0442\u0441\u044F
+    \u0434\u043E \u043A\u043E\u043D\u0446\u0430 \u0437\u0430\u0431\u0435\u0433\u0430.\n\n<b>\u0418\u043C\u044F
+    \u044E\u043D\u0438\u0442\u0430 (\u0421\u043B\u0435\u0432\u0430)</b>\n<b>\u0423\u0440\u043E\u0432\u0435\u043D\u044C</b>:
+    \u0423\u0440\u043E\u0432\u0435\u043D\u044C, \u043A\u043E\u0442\u043E\u0440\u044B\u0439
+    \u043C\u043E\u0436\u043D\u043E \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C
+    \u0432 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0435. (\u0442\u0435\u043A\u0443\u0449\u0438\u0439
+    \u0443\u0440\u043E\u0432\u0435\u043D\u044C / \u043C\u0430\u043A\u0441. \u0443\u0440\u043E\u0432\u0435\u043D\u044C)\n\n<b>\u0418\u043C\u044F
+    \u044E\u043D\u0438\u0442\u0430 (\u0421\u043F\u0440\u0430\u0432\u0430)</b>\n<b>\u0421\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u044C</b>:
+    \u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u0438,
+    \u0440\u0430\u0441\u0445\u043E\u0434\u0443\u0435\u043C\u043E\u0435 \u043F\u0440\u0438
+    \u043F\u0440\u0438\u0437\u044B\u0432\u0435 \u044E\u043D\u0438\u0442\u0430."
+  ZH_HANSTitle: 
+  ZH_HANSDesc: "\u6B64\u7A97\u53E3\u7528\u4E8E\u67E5\u770B\u5355\u4F4D\u5C5E\u6027\u3002\u5C5E\u6027\u53EF\u5728\u6218\u6597\u4E2D\u5B9E\u65F6\u67E5\u770B\u3002\u5C5E\u6027\u56FE\u50CF\u4E0A\u663E\u793A\u7684\u7EFF\u8272\u6570\u5B57\u8868\u793A\u5347\u7EA7\u6570\u503C\u3002\n\n<b>\u5355\u4F4D\u540D\u79F0\uFF08\u4E0A\uFF09</b>\n<b>\u79F0\u53F7\uFF08\u9057\u7269\uFF09</b>\uFF1A\u968F\u673A\u5206\u914D\u7684\u79F0\u53F7\uFF0C\u76F4\u5230\u672C\u6B21\u6E38\u73A9\u7ED3\u675F\u524D\u4E0D\u4F1A\u6539\u53D8\u3002\n\n<b>\u5355\u4F4D\u540D\u79F0\uFF08\u5DE6\uFF09</b>\n<b>\u7B49\u7EA7</b>\uFF1A\u53EF\u5728\u5546\u5E97\u5347\u7EA7\u7684\u7B49\u7EA7\u3002\uFF08\u5F53\u524D\u7B49\u7EA7
+    / \u6700\u9AD8\u7B49\u7EA7\uFF09\n\n<b>\u5355\u4F4D\u540D\u79F0\uFF08\u53F3\uFF09</b>\n<b>\u8D39\u7528</b>\uFF1A\u53EC\u5524\u8BE5\u5355\u4F4D\u65F6\u6D88\u8017\u7684\u8D39\u7528\u6570\u91CF\u3002"

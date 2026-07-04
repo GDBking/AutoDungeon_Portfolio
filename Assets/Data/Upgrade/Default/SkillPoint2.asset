@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d53f271d4b2d744889e13e8c7b2343e, type: 3}
+  m_Name: SkillPoint2
+  m_EditorClassIdentifier: 
+  upgradeType: 0
+  upgradeName: "\uC2A4\uD0AC \uD3EC\uC778\uD2B8 +2"
+  description: 
+  ENupgradeName: Skill Point +2
+  ENdescription: 
+  FRUpgradeName: "Point de comp\xE9tence +2"
+  FRDescription: 
+  ITUpgradeName: "Punto abilit\xE0 +2"
+  ITDescription: 
+  DEUpgradeName: "F\xE4higkeitspunkt +2"
+  DEDescription: 
+  ESUpgradeName: Punto de habilidad +2
+  ESDescription: 
+  JAUpgradeName: "\u30B9\u30AD\u30EB\u30DD\u30A4\u30F3\u30C8 +2"
+  JADescription: 
+  PT_BRUpgradeName: Ponto de Habilidade +2
+  PT_BRDescription: 
+  RUUpgradeName: "\u041E\u0447\u043A\u043E \u043D\u0430\u0432\u044B\u043A\u0430 +2"
+  RUDescription: 
+  ZH_HANSUpgradeName: "\u6280\u80FD\u70B9 +2"
+  ZH_HANSDescription: 
+  icon: {fileID: 21300000, guid: 44c24dad40b7f8c438b86371e0f751c2, type: 3}
+  value: 2

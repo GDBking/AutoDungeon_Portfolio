@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: d479cc8f1a8ec594987f62aff011357f
+  m_SerializeEntries:
+  - m_GUID: 27f6999f58bb5404ab61afee1b46b13c
+    m_Address: Assets/Localization/Total/Total Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39b255d2abaef854db1f4327287b8136
+    m_Address: Assets/Localization/Shop Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57dafcea37ada254b965289bdcfd0d9c
+    m_Address: Assets/Localization/Guide/Guide Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62a0011679a3bed4298686c024fb7a5e
+    m_Address: Assets/Localization/Event Map Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 694b66005ccac71409114fe8cae9ef70
+    m_Address: Assets/Localization/Tutorial/Tutorial Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75620a3ab84ed9f4ab92a254830aa398
+    m_Address: Assets/Localization/AchieveShop/AchieveShop Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 789eaf705a6077a4585d5919decfcaa8
+    m_Address: Assets/Localization/Reward Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0d003d810cf22d4ebc5d5422f775a70
+    m_Address: Assets/Localization/Lobby Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baa01c155b9263b40ae164724cfe0f0b
+    m_Address: Assets/Localization/Check Box/Check Box Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccab7877b83ec46459c82b99b3eb7693
+    m_Address: Assets/Localization/Settings/Setting Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed0edd571a514d441a0276022735371b
+    m_Address: Assets/Localization/Dungeon Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3f2512d18d021b4684a0fedb0afe40b
+    m_Address: Assets/Localization/Infomation/Infomation Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: fe924334e5d92654dab623deba40cde4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9ec19c0f975824a4eb54289e6a4ba2e2, type: 2}
+    - {fileID: 11400000, guid: 99f3f928e0fabde4dacaa99b3b133b1e, type: 2}

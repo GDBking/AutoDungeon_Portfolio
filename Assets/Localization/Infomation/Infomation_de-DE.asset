@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Infomation_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: f3f2512d18d021b4684a0fedb0afe40b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6217498624
+    m_Localized: "Verb\xFCndeten-Relikt (Oben)\n\n- Gewicht -\n\nDie relative Wahrscheinlichkeit,
+      dass dieses Relikt ausgew\xE4hlt wird.\nEin h\xF6herer Wert erh\xF6ht die Auswahlwahrscheinlichkeit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7903608832
+    m_Localized: "Verb\xFCndeten-Relikt (Unten)\n\n- Anzahl besessener Einheiten
+      -\n\nDie Anzahl der Einheiten, die Sie derzeit besitzen und die von diesem
+      Relikt betroffen sind."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9510027264
+    m_Localized: 'Feindliches Relikt (Oben)
+
+
+      - Debuff-Faktor -
+
+
+      Wenn
+      dieses Relikt angewendet wird, werden die Werte der betroffenen Einheit um
+      diesen Faktor reduziert.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155867552382976
+    m_Localized: "[Raserei]\nGreift verb\xFCndete Einheiten an (keine F\xE4higkeiten)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155872484884480
+    m_Localized: '[Status-Effekte]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155848078229504
+    m_Localized: '[Brand]
+
+      Erhaltene Heilung um 40 % reduziert, Angriff um
+      10 % reduziert'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155851471421440
+    m_Localized: "[Fessel]\nBewegung nicht m\xF6glich; Angriffe oder F\xE4higkeiten
+      innerhalb der Reichweite sind weiterhin m\xF6glich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155853790871552
+    m_Localized: "[Bet\xE4ubung]\nKeine Bewegung, kein Angriff, keine F\xE4higkeitennutzung
+      m\xF6glich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155855816720384
+    m_Localized: '[Gift]
+
+      Angriffsgeschwindigkeit um 25 % reduziert'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155857423138816
+    m_Localized: "[Stille]\nManaaufladung und F\xE4higkeitsnutzung deaktiviert"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155859243466752
+    m_Localized: '[Blutung]
+
+      Angriff und Verteidigung um 15 % reduziert'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155860891828224
+    m_Localized: "[Spott]\nZwingt Feinde dazu, diese Einheit als Ziel zu w\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155862833790976
+    m_Localized: "[Heilungsblock]\nHeilung nicht m\xF6glich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155865136463872
+    m_Localized: "[Bezauberung]\nAngriff nicht m\xF6glich"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

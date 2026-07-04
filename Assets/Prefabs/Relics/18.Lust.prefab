@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3578639330835516847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7444675206163884885}
+  - component: {fileID: 8454732419693468007}
+  - component: {fileID: 5988210919278537711}
+  - component: {fileID: -5460252971366521890}
+  m_Layer: 5
+  m_Name: 18.Lust
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &7444675206163884885
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 55, y: 55}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8454732419693468007
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_CullTransparentMesh: 1
+--- !u!114 &5988210919278537711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 508323c8bf1b86b44b9b42cc23715c49, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &-5460252971366521890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49b393f09ba550d4fa934d5f206aef4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: 6
+  relicsName: "\uC544\uC2A4\uBAA8\uB370\uC6B0\uC2A4(\uC0C9\uC695)\uC758 \uC720\uBB3C"
+  desc: "\uC21C\uACB0\uD55C \uC720\uB2DB\uC5D0\uAC8C \uB9E4\uC6B0 \uAC15\uD55C \uB514\uBC84\uD504\uB97C
+    \uBD80\uC5EC\uD569\uB2C8\uB2E4."
+  ENRelicsName: Relic of Asmodeus (Lust)
+  ENDesc: Applies a very strong debuff to Pure units.
+  FRRelicsName: "Relique d'Asmod\xE9e (Luxure)"
+  FRDesc: "Inflige un malus tr\xE8s puissant aux unit\xE9s pures."
+  ITRelicsName: Reliquia di Asmodeo (Lussuria)
+  ITDesc: "Applica un debuff molto forte alle unit\xE0 pure."
+  DERelicsName: Relikt von Asmodeus (Wollust)
+  DEDesc: Verursacht einen sehr starken Debuff bei reinen Einheiten.
+  ESRelicsName: Reliquia de Asmodeo (Lujuria)
+  ESDesc: Aplica un perjuicio muy fuerte a las unidades puras.
+  JARelicsName: "\u30A2\u30B9\u30E2\u30C7\u30A6\u30B9\uFF08\u8272\u6B32\uFF09\u306E\u907A\u7269"
+  JADesc: "\u7D14\u6F54\u306A\u30E6\u30CB\u30C3\u30C8\u306B\u975E\u5E38\u306B\u5F37\u3044\u30C7\u30D0\u30D5\u3092\u4E0E\u3048\u307E\u3059\u3002"
+  PT_BRRelicsName: "Rel\xEDquia de Asmodeus (Lux\xFAria)"
+  PT_BRDesc: "Aplica um debuff muito forte \xE0s unidades puras."
+  RURelicsName: "\u0420\u0435\u043B\u0438\u043A\u0432\u0438\u044F \u0410\u0441\u043C\u043E\u0434\u0435\u044F
+    (\u041F\u043E\u0445\u043E\u0442\u044C)"
+  RUDesc: "\u041D\u0430\u043A\u043B\u0430\u0434\u044B\u0432\u0430\u0435\u0442 \u043E\u0447\u0435\u043D\u044C
+    \u0441\u0438\u043B\u044C\u043D\u044B\u0439 \u0434\u0435\u0431\u0430\u0444\u0444
+    \u043D\u0430 \u0447\u0438\u0441\u0442\u044B\u0445 \u044E\u043D\u0438\u0442\u043E\u0432."
+  ZH_HANSRelicsName: "\u4E9A\u65AF\u83AB\u5FB7\uFF08\u8272\u6B32\uFF09\u4E4B\u9057\u7269"
+  ZH_HANSDesc: "\u5BF9\u7EAF\u6D01\u5355\u4F4D\u65BD\u52A0\u975E\u5E38\u5F3A\u529B\u7684\u51CF\u76CA\u3002"
+  isActive: 0

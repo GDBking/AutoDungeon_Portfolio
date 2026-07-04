@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Infomation_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: f3f2512d18d021b4684a0fedb0afe40b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6217498624
+    m_Localized: "Relique alli\xE9e (Haut)\n\n- Poids -\n\nProbabilit\xE9 relative
+      que cette relique soit choisie.\nUne valeur plus \xE9lev\xE9e augmente la probabilit\xE9
+      d\u2019\xEAtre s\xE9lectionn\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7903608832
+    m_Localized: "Relique alli\xE9e (Bas)\n\n- Nombre d\u2019unit\xE9s poss\xE9d\xE9es
+      -\n\nLe nombre d\u2019unit\xE9s que vous poss\xE9dez actuellement et qui sont
+      affect\xE9es par cette relique."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9510027264
+    m_Localized: "Relique ennemie (Haut)\n\n- Coefficient de d\xE9buff -\n\nSi cette
+      relique est appliqu\xE9e, les statistiques de l\u2019unit\xE9 cibl\xE9e sont
+      r\xE9duites selon ce coefficient."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155867552382976
+    m_Localized: "[Fr\xE9n\xE9sie]\nAttaque les unit\xE9s alli\xE9es (n\u2019utilise
+      pas de comp\xE9tences)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155872484884480
+    m_Localized: '[Effets de statut]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155848078229504
+    m_Localized: "[Br\xFBlure]\nSoins re\xE7us r\xE9duits de 40 %, attaque r\xE9duite
+      de 10 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155851471421440
+    m_Localized: "[Entrave]\nImpossible de se d\xE9placer ; attaques ou comp\xE9tences
+      dans la port\xE9e restent possibles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155853790871552
+    m_Localized: "[\xC9tourdissement]\nImpossible de se d\xE9placer, d\u2019attaquer
+      ou d\u2019utiliser des comp\xE9tences"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155855816720384
+    m_Localized: "[Poison]\nVitesse d\u2019attaque r\xE9duite de 25 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155857423138816
+    m_Localized: "[Silence]\nRecharge de mana et utilisation de comp\xE9tences d\xE9sactiv\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155859243466752
+    m_Localized: "[Saignement]\nAttaque et d\xE9fense r\xE9duites de 15 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155860891828224
+    m_Localized: "[Provocation]\nForce les ennemis \xE0 cibler cette unit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155862833790976
+    m_Localized: '[Blocage de soin]
+
+      Soins impossibles'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155865136463872
+    m_Localized: "[Envo\xFBtement]\nImpossible d\u2019attaquer"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

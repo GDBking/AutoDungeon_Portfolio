@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 694b66005ccac71409114fe8cae9ef70, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 146277892096
+    m_Localized: "A porta de um novo come\xE7o repousa aqui. Toque no \xEDcone abaixo
+      para despert\xE1-la."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13598681694208
+    m_Localized: "Abra o deck para ver os fragmentos que voc\xEA possui."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29235755843584
+    m_Localized: "Toque no deck novamente para verificar a composi\xE7\xE3o atual."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29401237913600
+    m_Localized: "Passe o mouse sobre uma unidade para ver o t\xEDtulo no painel
+      de status \xE0 esquerda.\\nVoc\xEA tamb\xE9m pode segurar a tecla Shift."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29687717265408
+    m_Localized: "Toque no deck novamente para fech\xE1-lo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29886749573120
+    m_Localized: "A rel\xEDquia no topo central representa o t\xEDtulo atribu\xEDdo
+      aleatoriamente a cada unidade."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29890876768256
+    m_Localized: "Pressione o bot\xE3o de cria\xE7\xE3o de unidade b\xE1sica para
+      invocar uma unidade b\xE1sica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32836146397184
+    m_Localized: "Arraste uma unidade da sua m\xE3o e coloque-a sobre uma unidade
+      b\xE1sica no campo para transform\xE1-la."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 685354316693504
+    m_Localized: "Pequenas escolhas se unem para formar a estrat\xE9gia. Observe
+      com calma e escolha o caminho mais racional. Boa sorte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29889668808704
+    m_Localized: "As rel\xEDquias no canto inferior esquerdo est\xE3o ativas.\\nRel\xEDquias
+      ativas concedem b\xF4nus ou penalidades a todas as unidades aliadas com base
+      nos t\xEDtulos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314232547016704
+    m_Localized: "As batalhas t\xEAm um limite de tempo.\\nQuando uma unidade morre,
+      seu custo \xE9 convertido em pontos para o oponente.\\nVence quem tiver mais
+      pontos ao final do tempo."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

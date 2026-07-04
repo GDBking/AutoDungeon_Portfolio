@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Infomation_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: f3f2512d18d021b4684a0fedb0afe40b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6217498624
+    m_Localized: "Ally Relic (Top)\n\n- Weight- \n\nThe relative probability that
+      this relic will be selected.\nA higher value increases the chance of being
+      chosen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7903608832
+    m_Localized: 'Ally Relic (Bottom)
+
+
+      - Owned unit count -
+
+
+      The number
+      of owned units currently affected by this relic.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9510027264
+    m_Localized: "Enemy Relic (Top)\n\n- Debuff multiplier -\n\nDebuff multiplier:
+      If this relic is applied, the target unit\u2019s stats are reduced by this
+      ratio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155848078229504
+    m_Localized: '[Burn]
+
+      Healing received reduced by 40%, attack reduced by
+      10%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155851471421440
+    m_Localized: '[Bind]
+
+      Cannot move; attacks or skill use within range (excluding
+      movement) are still possible'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155853790871552
+    m_Localized: '[Stun]
+
+      Cannot move, attack, or use skills'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155855816720384
+    m_Localized: '[Poison]
+
+      Attack speed reduced by 25%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155857423138816
+    m_Localized: '[Silence]
+
+      Mana charging and skill use disabled'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155859243466752
+    m_Localized: '[Bleed]
+
+      Attack and defense reduced by 15%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155860891828224
+    m_Localized: '[Taunt]
+
+      Forces enemies to target this unit with attacks'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155862833790976
+    m_Localized: '[Healing Block]
+
+      Healing disabled'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155872484884480
+    m_Localized: '[Status Effects]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155865136463872
+    m_Localized: '[Charm]
+
+      Cannot attack'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155867552382976
+    m_Localized: '[Frenzy]
+
+      Attacks allied units (skills are not used)'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

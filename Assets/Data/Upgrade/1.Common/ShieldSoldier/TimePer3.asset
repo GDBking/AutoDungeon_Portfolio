@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d53f271d4b2d744889e13e8c7b2343e, type: 3}
+  m_Name: TimePer3
+  m_EditorClassIdentifier: 
+  upgradeType: 0
+  upgradeName: "\uAE30\uC808 \uC2DC\uAC04 \uC99D\uAC00(%)"
+  ENupgradeName: Stun Duration Increase (%)
+  description: "\uAC15\uD0C0\uC758 \uAE30\uC808 \uC9C0\uC18D \uC2DC\uAC04\uC774 {0}%
+    \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  ENdescription: The stun duration of Smite increases by {0}%.
+  icon: {fileID: 21300000, guid: 3872476ef67297b4296df1c50ad062ef, type: 3}
+  tier: 3
+  minValue: 40
+  maxValue: 50
+  value: 23
+  isInt: 1

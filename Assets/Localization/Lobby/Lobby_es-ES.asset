@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Lobby_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: b0d003d810cf22d4ebc5d5422f775a70, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 195556769792
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1260402475008
+    m_Localized: Logros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266102534144
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1268552007680
+    m_Localized: Salir del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333880533417984
+    m_Localized: "Entrando en la mazmorra\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6251601905287168
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7638084264361984
+    m_Localized: Tienda de logros
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

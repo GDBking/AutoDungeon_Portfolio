@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 23.Achievement
+  m_EditorClassIdentifier: 
+  ID: 23
+  Icon: {fileID: 21300000, guid: 37b8bb1bd21191644a28f49cf41668c2, type: 3}
+  Title: "\uB4DC\uB798\uACE4\uACFC\uC758 \uB9CC\uB0A8"
+  Desc: "\uADF8 \uD754\uC801\uC740 \uC9C0\uC6CC\uC84C\uC9C0\uB9CC, \uADF8 \uB300\uAC00\uB294
+    \uBD84\uBA85\uD588\uC2B5\uB2C8\uB2E4."
+  ENTitle: Encounter with a Dragon
+  ENDesc: The traces vanished, but the price was certain.
+  FRTitle: Rencontre avec un dragon
+  FRDesc: "Les traces ont disparu, mais le prix \xE9tait certain."
+  ITTitle: Incontro con un drago
+  ITDesc: Le tracce svanirono, ma il prezzo fu certo.
+  DETitle: Begegnung mit einem Drachen
+  DEDesc: Die Spuren verschwanden, doch der Preis war gewiss.
+  ESTitle: "Encuentro con un drag\xF3n"
+  ESDesc: Las huellas desaparecieron, pero el precio fue inevitable.
+  JATitle: "\u7ADC\u3068\u306E\u9082\u9005"
+  JADesc: "\u75D5\u8DE1\u306F\u6D88\u3048\u305F\u304C\u3001\u4EE3\u511F\u306F\u78BA\u304B\u306B\u5B58\u5728\u3057\u305F\u3002"
+  PT_BRTitle: "Encontro com o Drag\xE3o"
+  PT_BRDesc: "Os vest\xEDgios sumiram, mas o pre\xE7o foi real."
+  RUTitle: "\u0412\u0441\u0442\u0440\u0435\u0447\u0430 \u0441 \u0434\u0440\u0430\u043A\u043E\u043D\u043E\u043C"
+  RUDesc: "\u0421\u043B\u0435\u0434\u044B \u0438\u0441\u0447\u0435\u0437\u043B\u0438,
+    \u043D\u043E \u0446\u0435\u043D\u0430 \u0431\u044B\u043B\u0430 \u0440\u0435\u0430\u043B\u044C\u043D\u043E\u0439."
+  ZH_HANSTitle: "\u9082\u9005\u5DE8\u9F99"
+  ZH_HANSDesc: "\u75D5\u8FF9\u6D88\u5931\u4E86\uFF0C\u4F46\u4EE3\u4EF7\u771F\u5B9E\u5B58\u5728\u3002"

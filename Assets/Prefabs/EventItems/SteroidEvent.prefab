@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4258178194658957986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7539272049646151793}
+  - component: {fileID: 8892105575436790828}
+  - component: {fileID: 9196173189991432808}
+  - component: {fileID: 4114873441121072084}
+  - component: {fileID: 6654507321790676103}
+  - component: {fileID: 61159842362175505}
+  - component: {fileID: -1374066228635040242}
+  m_Layer: 5
+  m_Name: SteroidEvent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &7539272049646151793
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -15}
+  m_SizeDelta: {x: 72, y: 72}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8892105575436790828
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_CullTransparentMesh: 1
+--- !u!114 &9196173189991432808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 59eee6d5e4edb514a88e1d679730c9dd, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!225 &4114873441121072084
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &6654507321790676103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9285414f638636c4991503584ce23cea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventMaterial: {fileID: 2100000, guid: 6faf219f5baee354698f8c7bc93e925c, type: 2}
+  cardMaterial: {fileID: 2100000, guid: 80a806304ae01834c8474129ced39f45, type: 2}
+  minValue: -0.3
+  maxValue: 0.87
+  getValue: 0.87
+  eventUseClip: {fileID: 8300000, guid: c9baed5d4cd9bdf48ae921e5a9b5317f, type: 3}
+--- !u!114 &61159842362175505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee742850ca9ca8d4c88d786d16641abb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 2
+  money: 500
+  ID: event_steroid
+  itemName: "\uC591\uB0A0\uC758 \uAC80"
+  desc: "\uC591\uB0A0\uC758 \uAC80\uC744 \uC0AC\uC6A9\uD55C \uC720\uB2DB\uC740 \uBAA8\uB4E0
+    \uC2A4\uD0EF \uBC84\uD504, \uB514\uBC84\uD504 \uD6A8\uACFC\uB97C 2\uBC30\uB85C
+    \uBC1B\uC2B5\uB2C8\uB2E4."
+  ENItemName: Double-Edged Sword
+  ENDesc: Units that use it receive double the value of all stat buffs and debuffs.
+  FRItemName: "\xC9p\xE9e \xE0 double tranchant"
+  FRDesc: "L'unit\xE9 qui l'utilise voit tous ses bonus et malus de statistiques
+    doubl\xE9s."
+  ITItemName: Spada a doppio taglio
+  ITDesc: "L'unit\xE0 che la usa subisce il doppio di tutti i buff e debuff alle
+    statistiche."
+  DEItemName: Doppelschneidiges Schwert
+  DEDesc: Einheiten, die es benutzen, erhalten alle Status-Buffs und -Debuffs doppelt.
+  ESItemName: Espada de doble filo
+  ESDesc: "La unidad que la use recibe el doble de todos los buffs y debuffs de estad\xEDsticas."
+  JAItemName: "\u4E21\u5203\u306E\u5263"
+  JADesc: "\u4F7F\u7528\u3057\u305F\u30E6\u30CB\u30C3\u30C8\u306F\u3059\u3079\u3066\u306E\u30B9\u30C6\u30FC\u30BF\u30B9\u306E\u30D0\u30D5\u30FB\u30C7\u30D0\u30D5\u52B9\u679C\u304C2\u500D\u306B\u306A\u308A\u307E\u3059\u3002"
+  PT_BRItemName: Espada de Dois Gumes
+  PT_BRDesc: A unidade que a usar recebe o dobro de todos os buffs e debuffs de status.
+  RUItemName: "\u041E\u0431\u043E\u044E\u0434\u043E\u043E\u0441\u0442\u0440\u044B\u0439
+    \u043C\u0435\u0447"
+  RUDesc: "\u042E\u043D\u0438\u0442, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0449\u0438\u0439
+    \u0435\u0433\u043E, \u043F\u043E\u043B\u0443\u0447\u0430\u0435\u0442 \u0432\u0434\u0432\u043E\u0435
+    \u0432\u0441\u0435 \u0431\u0430\u0444\u0444\u044B \u0438 \u0434\u0435\u0431\u0430\u0444\u0444\u044B
+    \u0445\u0430\u0440\u0430\u043A\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043A."
+  ZH_HANSItemName: "\u53CC\u5203\u4E4B\u5251"
+  ZH_HANSDesc: "\u4F7F\u7528\u8005\u5C06\u53D7\u5230\u6240\u6709\u5C5E\u6027\u589E\u76CA\u4E0E\u51CF\u76CA\u6548\u679C\u7684\u4E24\u500D\u5F71\u54CD\u3002"
+--- !u!114 &-1374066228635040242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182290e2a4fd0364ea60373e4095d11f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

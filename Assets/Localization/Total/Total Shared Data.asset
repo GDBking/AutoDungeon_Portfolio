@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Total Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Total
+  m_TableCollectionNameGuidString: 27f6999f58bb5404ab61afee1b46b13c
+  m_Entries:
+  - m_Id: 13959844823040
+    m_Key: Unit List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13961749037056
+    m_Key: Unit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13964034932736
+    m_Key: Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13992631697408
+    m_Key: Damage Taken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13994070343680
+    m_Key: Healing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13998084292608
+    m_Key: Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14072029872128
+    m_Key: Play Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14075280457728
+    m_Key: Don't show again
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 165055094587490
+  references:
+    version: 2
+    RefIds:
+    - rid: 165055094587490
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1770307426559

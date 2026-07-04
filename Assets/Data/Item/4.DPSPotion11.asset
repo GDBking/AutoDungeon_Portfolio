@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 210830949eff86141bc7b051926c63b7, type: 3}
+  m_Name: 4.DPSPotion11
+  m_EditorClassIdentifier: 
+  itemType: 3
+  itemLevel: 2
+  itemName: "\uC624\uB9AC\uC628\uC758 \uC7A5\uAC11"
+  itemDesc: "\uACF5\uACA9 \uC18D\uB3C4 +0.5"
+  ENItemName: Orion's Gloves
+  ENItemDesc: Attack Speed +0.5
+  FRItemName: Gants d'Orion
+  FRItemDesc: Vitesse d'attaque +0.5
+  ITItemName: Guanti di Orione
+  ITItemDesc: "Velocit\xE0 d'attacco +0.5"
+  DEItemName: Orionshandschuhe
+  DEItemDesc: Angriffsgeschwindigkeit +0.5
+  ESItemName: "Guantes de Ori\xF3n"
+  ESItemDesc: Velocidad de ataque +0.5
+  JPItemName: "\u30AA\u30EA\u30AA\u30F3\u306E\u624B\u888B"
+  JPItemDesc: "\u653B\u6483\u901F\u5EA6 +0.5"
+  JAItemName: "\u30AA\u30EA\u30AA\u30F3\u306E\u624B\u888B"
+  JAItemDesc: "\u653B\u6483\u901F\u5EA6 +0.5"
+  PT_BRItemName: Luvas de Orion
+  PT_BRItemDesc: Velocidade de ataque +0.5
+  RUItemName: "\u041F\u0435\u0440\u0447\u0430\u0442\u043A\u0438 \u041E\u0440\u0438\u043E\u043D\u0430"
+  RUItemDesc: "\u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C \u0430\u0442\u0430\u043A\u0438
+    +0.5"
+  ZH_HANSItemName: "\u730E\u6237\u5EA7\u7684\u624B\u5957"
+  ZH_HANStemDesc: "\u653B\u51FB\u901F\u5EA6 +0.5"
+  itemIcon: {fileID: 21300000, guid: 738c888237d651d4cb25c0d2196ada18, type: 3}
+  cost: 1
+  itemID: item_dps_potion11
+  heal: 0
+  ATK: 0
+  DEF: 0
+  DPS: 0.5
+  LS: 0
+  CRT: 0

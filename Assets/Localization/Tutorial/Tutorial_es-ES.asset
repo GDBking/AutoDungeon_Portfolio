@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 694b66005ccac71409114fe8cae9ef70, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 146277892096
+    m_Localized: "La puerta de un nuevo comienzo duerme aqu\xED. Pulsa el icono de
+      abajo para despertarla."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13598681694208
+    m_Localized: Abre el mazo para ver los fragmentos que posees.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29235755843584
+    m_Localized: "Pulsa el mazo de nuevo para revisar la composici\xF3n actual."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29401237913600
+    m_Localized: "Coloca el cursor sobre una unidad para ver su t\xEDtulo en el panel
+      de estado izquierdo.\\nTambi\xE9n puedes mantener pulsada la tecla Shift."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29687717265408
+    m_Localized: Pulsa el mazo de nuevo para cerrarlo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29886749573120
+    m_Localized: "La reliquia en la parte superior central representa el t\xEDtulo
+      asignado aleatoriamente a cada unidad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29890876768256
+    m_Localized: "Pulsa el bot\xF3n de creaci\xF3n de unidad b\xE1sica para invocar
+      una unidad b\xE1sica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32836146397184
+    m_Localized: "Arrastra una unidad de tu mano y col\xF3cala sobre una unidad b\xE1sica
+      en el campo para transformarla."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 685354316693504
+    m_Localized: "Las peque\xF1as decisiones forman la estrategia. Observa con calma
+      y elige el camino m\xE1s racional. Buena suerte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29889668808704
+    m_Localized: "Las reliquias de la esquina inferior izquierda est\xE1n activas.\\nLas
+      reliquias activas otorgan beneficios o penalizaciones a todas las unidades
+      aliadas seg\xFAn sus t\xEDtulos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314232547016704
+    m_Localized: "Los combates tienen un l\xEDmite de tiempo.\\nCuando una unidad
+      muere, su coste se convierte en puntos para el oponente.\\nGana quien tenga
+      m\xE1s puntos al terminar el tiempo."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

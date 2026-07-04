@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 0}
+  Title: "\uC6B4\uBA85 \uC870\uC815"
+  Desc: "\uC720\uB2DB \uC870\uAC01 \uC5C5\uADF8\uB808\uC774\uB4DC \uC2DC \uAC1C\uBCC4
+    \uC2AC\uB86F \uB9AC\uB864\uC774 \uAC00\uB2A5\uD574\uC9D1\uB2C8\uB2E4."
+  ENTitle: Fate Adjustment
+  ENDesc: Unlocks individual slot rerolls when upgrading Unit Fragments.
+  FRTitle: "Alt\xE9ration du Destin"
+  FRDesc: "Permet de relancer individuellement chaque emplacement lors de l'am\xE9lioration
+    des Fragments d\u2019unit\xE9."
+  ITTitle: Alterazione del Destino
+  ITDesc: "Consente di rilanciare singolarmente ogni slot durante il potenziamento
+    dei Frammenti unit\xE0."
+  DETitle: Schicksalsanpassung
+  DEDesc: "Erm\xF6glicht das separate Neuw\xFCrfeln einzelner Slots beim Aufwerten
+    von Einheitenfragmenten."
+  ESTitle: Ajuste del Destino
+  ESDesc: Permite relanzar cada ranura individualmente al mejorar Fragmentos de unidad.
+  JATitle: "\u904B\u547D\u8ABF\u6574"
+  JADesc: "\u30E6\u30CB\u30C3\u30C8\u306E\u6B20\u7247\u3092\u5F37\u5316\u3059\u308B\u969B\u3001\u30B9\u30ED\u30C3\u30C8\u3054\u3068\u306E\u500B\u5225\u30EA\u30ED\u30FC\u30EB\u304C\u53EF\u80FD\u306B\u306A\u308A\u307E\u3059\u3002"
+  PT_BRTitle: Ajuste do Destino
+  PT_BRDesc: Permite rerrolar cada slot individualmente ao aprimorar Fragmentos de
+    unidade.
+  RUTitle: "\u041A\u043E\u0440\u0440\u0435\u043A\u0446\u0438\u044F \u0421\u0443\u0434\u044C\u0431\u044B"
+  RUDesc: "\u041F\u043E\u0437\u0432\u043E\u043B\u044F\u0435\u0442 \u043F\u0435\u0440\u0435\u0431\u0440\u0430\u0441\u044B\u0432\u0430\u0442\u044C
+    \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0435 \u0441\u043B\u043E\u0442\u044B
+    \u043F\u0440\u0438 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0438 \u0424\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432
+    \u044E\u043D\u0438\u0442\u0430."
+  ZH_HANSTitle: "\u547D\u8FD0\u8C03\u6574"
+  ZH_HANSDesc: "\u5728\u5347\u7EA7\u5355\u4F4D\u788E\u7247\u65F6\uFF0C\u53EF\u5BF9\u5355\u4E2A\u69FD\u4F4D\u8FDB\u884C\u72EC\u7ACB\u91CD\u63B7\u3002"

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 210830949eff86141bc7b051926c63b7, type: 3}
+  m_Name: 1.HPPotion1
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemLevel: 1
+  itemName: "\uAE30\uC0AC\uB2E8\uC758 \uD22C\uAD6C"
+  itemDesc: "\uCCB4\uB825 +300"
+  ENItemName: Knight's Helmet
+  ENItemDesc: Health +300
+  FRItemName: Casque de l'ordre
+  FRItemDesc: "Sant\xE9 +300"
+  ITItemName: Elmo del cavaliere
+  ITItemDesc: Salute +300
+  DEItemName: Ritterhelm
+  DEItemDesc: Leben +300
+  ESItemName: Casco de la orden
+  ESItemDesc: Salud +300
+  JPItemName: "\u9A0E\u58EB\u56E3\u306E\u515C"
+  JPItemDesc: "\u4F53\u529B +300"
+  JAItemName: "\u9A0E\u58EB\u56E3\u306E\u515C"
+  JAItemDesc: "\u4F53\u529B +300"
+  PT_BRItemName: Elmo da Ordem
+  PT_BRItemDesc: Vida +300
+  RUItemName: "\u0428\u043B\u0435\u043C \u043E\u0440\u0434\u0435\u043D\u0430"
+  RUItemDesc: "\u0417\u0434\u043E\u0440\u043E\u0432\u044C\u0435 +300"
+  ZH_HANSItemName: "\u9A91\u58EB\u56E2\u7684\u5934\u76D4"
+  ZH_HANStemDesc: "\u751F\u547D\u503C +300"
+  itemIcon: {fileID: 21300000, guid: 34d041c934d7bb44e997ef5d5880ba94, type: 3}
+  cost: 1
+  itemID: item_hp_potion1
+  heal: 300
+  ATK: 0
+  DEF: 0
+  DPS: 0
+  LS: 0
+  CRT: 0

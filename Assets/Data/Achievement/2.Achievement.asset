@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 2.Achievement
+  m_EditorClassIdentifier: 
+  ID: 2
+  Icon: {fileID: 21300000, guid: 15ea469795061e8489963690cb30473d, type: 3}
+  Title: "\uD0D0\uC695\uC744 \uB118\uC5B4\uC11C"
+  Desc: "\uB05D\uC5C6\uB294 \uC695\uB9DD\uC870\uCC28 \uC774\uAE38 \uC218 \uC788\uC5C8\uC2B5\uB2C8\uB2E4."
+  ENTitle: Beyond Greed
+  ENDesc: Even endless desire could not overcome you.
+  FRTitle: "Au-del\xE0 de l\u2019avidit\xE9"
+  FRDesc: "M\xEAme un d\xE9sir sans fin n\u2019a pas pu te vaincre."
+  ITTitle: "Oltre l\u2019avidit\xE0"
+  ITDesc: "Nemmeno un desiderio senza fine \xE8 riuscito a sopraffarti."
+  DETitle: Jenseits der Gier
+  DEDesc: "Selbst grenzenloses Verlangen konnte dich nicht \xFCberwinden."
+  ESTitle: "M\xE1s all\xE1 de la avaricia"
+  ESDesc: "Ni siquiera un deseo sin fin logr\xF3 doblegarte."
+  JATitle: "\u5F37\u6B32\u3092\u8D85\u3048\u3066"
+  JADesc: "\u5C3D\u304D\u306C\u6B32\u671B\u3055\u3048\u3001\u3042\u306A\u305F\u3092\u5451\u307F\u8FBC\u3081\u306A\u304B\u3063\u305F\u3002"
+  PT_BRTitle: "Al\xE9m da Gan\xE2ncia"
+  PT_BRDesc: Nem mesmo o desejo infinito foi capaz de engoli-lo.
+  RUTitle: "\u041F\u0440\u0435\u0432\u0437\u043E\u0439\u0442\u0438 \u0436\u0430\u0434\u043D\u043E\u0441\u0442\u044C"
+  RUDesc: "\u0414\u0430\u0436\u0435 \u0431\u0435\u0441\u043A\u043E\u043D\u0435\u0447\u043D\u0430\u044F
+    \u0436\u0430\u0434\u043D\u043E\u0441\u0442\u044C \u043D\u0435 \u0441\u043C\u043E\u0433\u043B\u0430
+    \u0442\u0435\u0431\u044F \u043F\u043E\u0433\u043B\u043E\u0442\u0438\u0442\u044C."
+  ZH_HANSTitle: "\u8D85\u8D8A\u8D2A\u5A6A"
+  ZH_HANSDesc: "\u5373\u4FBF\u65E0\u5C3D\u7684\u6B32\u671B\uFF0C\u4E5F\u65E0\u6CD5\u5C06\u4F60\u541E\u566C\u3002"

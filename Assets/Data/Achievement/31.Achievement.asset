@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 31.Achievement
+  m_EditorClassIdentifier: 
+  ID: 31
+  Icon: {fileID: 21300000, guid: f1746c4699c1522409caa11a884b0215, type: 3}
+  Title: "\uBBFF\uC74C\uC758 \uBD95\uAD34"
+  Desc: "\uB2F9\uC5F0\uD558\uB2E4\uACE0 \uC5EC\uAE34 \uC21C\uAC04\uC774 \uBB34\uB108\uC84C\uC2B5\uB2C8\uB2E4."
+  ENTitle: Collapse of Faith
+  ENDesc: What once seemed certain has crumbled.
+  FRTitle: "Foi effondr\xE9e"
+  FRDesc: "Ce qui semblait certain s\u2019est \xE9croul\xE9."
+  ITTitle: Fede crollata
+  ITDesc: "Ci\xF2 che sembrava certo \xE8 crollato."
+  DETitle: Der Glaube zerbrochen
+  DEDesc: Was einst gewiss schien, ist zerfallen.
+  ESTitle: Colapso de la fe
+  ESDesc: "Lo que parec\xEDa seguro termin\xF3 por derrumbarse."
+  JATitle: "\u4FE1\u5FF5\u306E\u5D29\u58CA"
+  JADesc: "\u304B\u3064\u3066\u63FA\u308B\u304C\u306A\u304B\u3063\u305F\u4FE1\u5FF5\u306F\u7815\u3051\u6563\u3063\u305F\u3002"
+  PT_BRTitle: "Colapso da F\xE9"
+  PT_BRDesc: "A f\xE9 outrora inabal\xE1vel se despeda\xE7ou."
+  RUTitle: "\u041A\u0440\u0430\u0445 \u0432\u0435\u0440\u044B"
+  RUDesc: "\u041A\u043E\u0433\u0434\u0430-\u0442\u043E \u0442\u0432\u0451\u0440\u0434\u0430\u044F
+    \u0432\u0435\u0440\u0430 \u0440\u0430\u0441\u0441\u044B\u043F\u0430\u043B\u0430\u0441\u044C."
+  ZH_HANSTitle: "\u4FE1\u5FF5\u5D29\u584C"
+  ZH_HANSDesc: "\u66FE\u7ECF\u575A\u5B9A\u7684\u4FE1\u5FF5\u5DF2\u7136\u74E6\u89E3\u3002"

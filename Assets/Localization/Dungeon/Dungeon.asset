@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Dungeon
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: ed0edd571a514d441a0276022735371b, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 0072619ead445d346b6d385ad8cf6aa1, type: 2}
+  - {fileID: 11400000, guid: 2840c92a27cfc8945a813d1cfeae6ac5, type: 2}
+  - {fileID: 11400000, guid: e46927951efc115419cc4937a153ce0f, type: 2}
+  - {fileID: 11400000, guid: 358ac8432fe334641937f9c5a7b4e7e2, type: 2}
+  - {fileID: 11400000, guid: 08eb412efb8f7744ebf7a0e20f5bf03b, type: 2}
+  - {fileID: 11400000, guid: bf9e7cd0cd4fdf04682e3dfcb056941f, type: 2}
+  - {fileID: 11400000, guid: b5445817aaa5e2048bc016135582dd2a, type: 2}
+  - {fileID: 11400000, guid: 8114079fedf48da40b97ae0a9bc9767c, type: 2}
+  - {fileID: 11400000, guid: ad8173e9e80031846bf52faf1f52a8c7, type: 2}
+  - {fileID: 11400000, guid: d936b98aa2c26b1458efb24c7d50f81c, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

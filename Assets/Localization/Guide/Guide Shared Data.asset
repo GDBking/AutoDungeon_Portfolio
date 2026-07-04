@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Guide Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Guide
+  m_TableCollectionNameGuidString: 57dafcea37ada254b965289bdcfd0d9c
+  m_Entries:
+  - m_Id: 467997090611200
+    m_Key: Relic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 467999183568896
+    m_Key: Shard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468001003896832
+    m_Key: Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468002861973504
+    m_Key: Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468005508579328
+    m_Key: Status Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468007404404736
+    m_Key: Event Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468012269797376
+    m_Key: Achievement Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468015558131712
+    m_Key: Victory Conditions & Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468017961467904
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 165021249175552
+  references:
+    version: 2
+    RefIds:
+    - rid: 165021249175552
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1770178108768

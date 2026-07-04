@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Italian (Italy) (it-IT)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Italian (Italy) (it-IT)
+  m_GUID: 1c057aa112b18bd4b9cde2830184981b
+  m_SerializeEntries:
+  - m_GUID: 16991531ef4aa0f48ae9285d546a4f37
+    m_Address: Infomation_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 358ac8432fe334641937f9c5a7b4e7e2
+    m_Address: Dungeon_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 389d679d53ae9ef48be2b42926f53692
+    m_Address: Event Map_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 758f6b75a0927bf438a97c1ac1908d4f
+    m_Address: Guide_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b7b0b5ad2d5d3d478cb13b07ccaa1db
+    m_Address: Tutorial_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b780f27997c1f644a1c4b9725116ce2
+    m_Address: AchieveShop_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a17398f7955810441ae312d31deac06c
+    m_Address: Shop_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad599312491998b47b335adb81da5813
+    m_Address: Reward & Event Map_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b68d907344d93f54894ca402535fc680
+    m_Address: Total_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce6260e1c63147048a039fe59975598f
+    m_Address: Check Box_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6033cf80635d97489af59552d3e3561
+    m_Address: Setting_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fccde118538475746b71b11158123e06
+    m_Address: Lobby_it-IT
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it-IT
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: fe924334e5d92654dab623deba40cde4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 92f3d7a563d2b2842861f2a88baaf838, type: 2}
+    - {fileID: 11400000, guid: d054f36a2b585254eb7f8a7683336e18, type: 2}

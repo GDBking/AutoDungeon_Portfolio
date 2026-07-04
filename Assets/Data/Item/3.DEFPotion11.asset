@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 210830949eff86141bc7b051926c63b7, type: 3}
+  m_Name: 3.DEFPotion11
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemLevel: 2
+  itemName: "\uC624\uB9AC\uC628\uC758 \uAC11\uC637"
+  itemDesc: "\uBC29\uC5B4\uB825 +70"
+  ENItemName: Orion's Armor
+  ENItemDesc: Defense +70
+  FRItemName: Armure d'Orion
+  FRItemDesc: "D\xE9fense +70"
+  ITItemName: Armatura di Orione
+  ITItemDesc: Difesa +70
+  DEItemName: "Orionsr\xFCstung"
+  DEItemDesc: Verteidigung +70
+  ESItemName: "Armadura de Ori\xF3n"
+  ESItemDesc: Defensa +70
+  JAItemName: "\u30AA\u30EA\u30AA\u30F3\u306E\u93A7"
+  JAItemDesc: "\u9632\u5FA1\u529B +70"
+  PT_BRItemName: Armadura de Orion
+  PT_BRItemDesc: Defesa +70
+  RUItemName: "\u0414\u043E\u0441\u043F\u0435\u0445 \u041E\u0440\u0438\u043E\u043D\u0430"
+  RUItemDesc: "\u0417\u0430\u0449\u0438\u0442\u0430 +70"
+  ZH_HANSItemName: "\u730E\u6237\u5EA7\u7684\u76D4\u7532"
+  ZH_HANStemDesc: "\u9632\u5FA1\u529B +70"
+  itemIcon: {fileID: 21300000, guid: 4171db206722d9944b7afcf38de64c7c, type: 3}
+  cost: 1
+  itemID: item_def_potion11
+  heal: 0
+  ATK: 0
+  DEF: 70
+  DPS: 0
+  LS: 0
+  CRT: 0

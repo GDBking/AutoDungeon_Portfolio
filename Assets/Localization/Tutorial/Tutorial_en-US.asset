@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 694b66005ccac71409114fe8cae9ef70, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 146277892096
+    m_Localized: The door to a new beginning lies dormant here. Press the icon below
+      to awaken it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29687717265408
+    m_Localized: Press the deck again to close it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29886749573120
+    m_Localized: The relic at the top center represents a title randomly assigned
+      to each unit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13598681694208
+    m_Localized: Open the deck to view your owned fragments.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29235755843584
+    m_Localized: Press the deck again to check your current deck composition.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29401237913600
+    m_Localized: Hover your mouse over a unit to view its title in the left status
+      panel.\nYou can also hold the Shift key to check it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29890876768256
+    m_Localized: Press the basic unit creation button to summon a basic unit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32836146397184
+    m_Localized: Drag a unit from your hand and place it onto a basic unit on the
+      field to transform it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 685354316693504
+    m_Localized: Small choices come together to form strategy. Take your time and
+      choose the most rational path. Good luck.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29889668808704
+    m_Localized: The relics in the bottom-left are currently active.\nActive relics
+      grant buffs or debuffs to all allied units based on their titles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314232547016704
+    m_Localized: Battles have a time limit.\nWhen a unit dies, its cost is converted
+      into points for the opponent.\nThe player with more points when time runs out
+      wins.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

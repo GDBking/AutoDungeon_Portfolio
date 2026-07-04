@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 36.Achievement
+  m_EditorClassIdentifier: 
+  ID: 36
+  Icon: {fileID: 21300000, guid: ba99226dc81e5ac45b9f97ccde9d0b0b, type: 3}
+  Title: "\uB9C8\uCE68\uD45C"
+  Desc: "\uB354 \uC774\uC0C1 \uC801\uC744 \uC774\uC57C\uAE30\uB294 \uC5C6\uC2B5\uB2C8\uB2E4."
+  ENTitle: Period.
+  ENDesc: There is nothing left to write.
+  FRTitle: Point final.
+  FRDesc: "Il n\u2019y a plus rien \xE0 \xE9crire."
+  ITTitle: Punto.
+  ITDesc: "Non c\u2019\xE8 pi\xF9 nulla da scrivere."
+  DETitle: Punkt.
+  DEDesc: Es gibt nichts mehr zu schreiben.
+  ESTitle: Punto final.
+  ESDesc: Ya no queda nada por escribir.
+  JATitle: "\u7D42\u6B62\u7B26\u3002"
+  JADesc: "\u3082\u306F\u3084\u8A18\u3059\u3053\u3068\u306F\u306A\u3044\u3002"
+  PT_BRTitle: Ponto Final.
+  PT_BRDesc: "N\xE3o h\xE1 mais nada a escrever."
+  RUTitle: "\u0422\u043E\u0447\u043A\u0430."
+  RUDesc: "\u0411\u043E\u043B\u044C\u0448\u0435 \u043D\u0435\u0447\u0435\u0433\u043E
+    \u043F\u0438\u0441\u0430\u0442\u044C."
+  ZH_HANSTitle: "\u53E5\u53F7\u3002"
+  ZH_HANSDesc: "\u5DF2\u65E0\u53EF\u4E66\u5199\u4E4B\u4E8B\u3002"

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Setting_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: ccab7877b83ec46459c82b99b3eb7693, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 323575316480
+    m_Localized: Grafik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326389694464
+    m_Localized: Ton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328092581888
+    m_Localized: Sprache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329975824384
+    m_Localized: Vollbild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 331682906112
+    m_Localized: "Aufl\xF6sung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333398376448
+    m_Localized: Hintergrundmusik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 337928224768
+    m_Localized: Soundeffekte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6931940343808
+    m_Localized: Beenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6935190929408
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1522999531896832
+    m_Localized: Deutsch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6521685374631936
+    m_Localized: Anleitung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6522212426678272
+    m_Localized: Hilfe anzeigen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6521688239341568
+    m_Localized: Handbuch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7080712663957504
+    m_Localized: Mehr erfahren
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

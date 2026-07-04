@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-French (France) (fr-FR)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-French (France) (fr-FR)
+  m_GUID: 722ea467ebf8d1f46944bb74a7ac3526
+  m_SerializeEntries:
+  - m_GUID: 037954ef9ca184647bfa7f35895d1e77
+    m_Address: Lobby_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11b216d929fe27848b6412ec887bf997
+    m_Address: Shop_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23a6c6ae3105e624192b1ed7dc5ad5ee
+    m_Address: Tutorial_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e71fe7bc299ccd46a4e5afb3ef19700
+    m_Address: Infomation_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f7372a307821a243a1333c8cf9ac2ce
+    m_Address: AchieveShop_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68262f0decfc44a4a8e1d77c1b746e33
+    m_Address: Setting_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fd42647f71716242a13368a3eded3a3
+    m_Address: Reward & Event Map_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86c3671d8a6f95e4e95da049aaa22a78
+    m_Address: Guide_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a80d6c24dd6a3f84fbc2cfccd9d09b03
+    m_Address: Event Map_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae9bc5191980e6449964aacbf48c24ad
+    m_Address: Check Box_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d576cd546659cbd4ca2fa7b42d111a9a
+    m_Address: Total_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e46927951efc115419cc4937a153ce0f
+    m_Address: Dungeon_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: fe924334e5d92654dab623deba40cde4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: abb11f04977da5a46874511f11c94460, type: 2}
+    - {fileID: 11400000, guid: 799c67665c2125e44b493ab11d8ebb97, type: 2}

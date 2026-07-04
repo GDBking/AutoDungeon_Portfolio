@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 17.Achievement
+  m_EditorClassIdentifier: 
+  ID: 17
+  Icon: {fileID: 21300000, guid: 7498ccd9478143a4bb14fdc515756fb4, type: 3}
+  Title: "\uC9C0\uAC11\uC744 \uC5F4\uB2E4"
+  Desc: "\uD544\uC694\uD55C \uC21C\uAC04\uC5D0\uB294 \uC544\uB07C\uC9C0 \uC54A\uB294
+    \uBC95\uC785\uB2C8\uB2E4."
+  ENTitle: Opening the Wallet
+  ENDesc: When needed, you did not hesitate to spend.
+  FRTitle: Ouvrir le portefeuille
+  FRDesc: "Quand il le fallait, tu n\u2019as pas h\xE9sit\xE9 \xE0 d\xE9penser."
+  ITTitle: Aprire il portafoglio
+  ITDesc: Quando era necessario, non hai esitato a spendere.
+  DETitle: "Den Geldbeutel ge\xF6ffnet"
+  DEDesc: "Wenn es n\xF6tig war, hast du nicht gez\xF6gert zu zahlen."
+  ESTitle: Abrir la cartera
+  ESDesc: Cuando hizo falta, no dudaste en pagar.
+  JATitle: "\u8CA1\u5E03\u3092\u958B\u304F"
+  JADesc: "\u5FC5\u8981\u306A\u6642\u3001\u3042\u306A\u305F\u306F\u8FF7\u308F\u306A\u304B\u3063\u305F\u3002"
+  PT_BRTitle: Abrindo a Carteira
+  PT_BRDesc: "Quando foi necess\xE1rio, voc\xEA n\xE3o hesitou."
+  RUTitle: "\u041E\u0442\u043A\u0440\u044B\u0442\u044C \u043A\u043E\u0448\u0435\u043B\u0451\u043A"
+  RUDesc: "\u041A\u043E\u0433\u0434\u0430 \u0431\u044B\u043B\u043E \u043D\u0443\u0436\u043D\u043E,
+    \u0442\u044B \u043D\u0435 \u043A\u043E\u043B\u0435\u0431\u0430\u043B\u0441\u044F."
+  ZH_HANSTitle: "\u6253\u5F00\u94B1\u5305"
+  ZH_HANSDesc: "\u5FC5\u8981\u4E4B\u65F6\uFF0C\u4F60\u4ECE\u672A\u72B9\u8C6B\u3002"

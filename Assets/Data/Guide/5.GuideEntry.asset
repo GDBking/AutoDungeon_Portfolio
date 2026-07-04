@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96efabfa0d413f340b7e4b049eea0558, type: 3}
+  m_Name: 5.GuideEntry
+  m_EditorClassIdentifier: 
+  Title: "\uC774\uBCA4\uD2B8 \uB9F5"
+  Desc: "<b>\uAC70\uB798 \uB9F5</b>: \uB3C8\uACFC \uCF54\uC2A4\uD2B8\uB97C \uC11C\uB85C
+    \uAD50\uD658\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.\r\n\r\n<b>\uC57C\uBC14\uC704
+    \uB9F5</b>: \uB3C8\uC744 \uC9C0\uBD88\uD558\uBA74 3\uAC1C \uC911 1\uAC1C\uB97C
+    \uC120\uD0DD\uD558\uC5EC \uBB34\uC791\uC704 \uBCF4\uC0C1\uC744 \uD68D\uB4DD\uD560
+    \uC218 \uC788\uC2B5\uB2C8\uB2E4.\r\n\r\n<b>\uAE30\uB3C4 \uB9F5</b>: \uC720\uB2DB
+    1\uBA85\uC758 \uCD5C\uB300 \uB808\uBCA8\uC744 \uC99D\uAC00\uC2DC\uD0AC \uC218
+    \uC788\uC2B5\uB2C8\uB2E4. (\uCD5C\uB300 9\uB808\uBCA8)\r\n\r\n<b>\uCE74\uC624\uC2A4
+    \uB4DC\uB798\uACE4 \uB9F5</b>: \uB371\uC5D0 \uC788\uB294 \uC870\uAC01 1\uC885\uB958(\uC774\uBCA4\uD2B8
+    \uC870\uAC01 \uC81C\uC678)\uB97C \uC601\uAD6C \uC81C\uC678\uD558\uB294 \uB300\uC2E0,
+    \uB2E4\uC591\uD55C \uBCF4\uC0C1\uC744 \uD68D\uB4DD\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.\r\n\r\n<b>\uBCF5\uC81C
+    \uB9F5</b>: \uB371\uC5D0 \uC788\uB294 \uC870\uAC01 1\uAC1C\uB97C \uC120\uD0DD\uD558\uC5EC
+    \uBCF5\uC81C\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.\r\n\r\n<b>\uC131\uC218 \uB9F5</b>:
+    \uC720\uB2DB 1\uBA85\uC758 \uB808\uBCA8\uC744 \uCD08\uAE30\uD654\uD560 \uC218
+    \uC788\uC73C\uBA70, \uC0AC\uC6A9\uD55C \uAC15\uD654\uC11D\uC740 \uBAA8\uB450
+    \uBC18\uD658\uB429\uB2C8\uB2E4.\r\n\r\n<b>\uAE30\uBD80 \uB9F5</b>: \uB371\uC5D0
+    \uC788\uB294 \uC870\uAC01 1\uAC1C(\uC774\uBCA4\uD2B8 \uC870\uAC01 \uC81C\uC678)\uB97C
+    \uAE30\uBD80\uD558\uBA74, \uD655\uB960\uC801\uC73C\uB85C \uBCF4\uC0C1\uC744 \uD68D\uB4DD\uD560
+    \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  ENTitle: 
+  ENDesc: "<b>Trade Map</b>: Exchange money and cost with each other.\n<b>Shell Game
+    Map</b>: Pay money to choose one of three options and receive a random reward.\n<b>Prayer
+    Map</b>: Increase the maximum level of one unit. (max level 9)\n<b>Chaos Dragon
+    Map</b>: Permanently remove one type of shard from your deck (excluding event
+    shards) in exchange for various rewards.\n<b>Duplication Map</b>: Select one
+    shard in your deck and duplicate it.\n<b>Holy Spring Map</b>: Reset one unit\u2019s
+    level; any used enhancement stones are returned.\n<b>Donation Map</b>: Donate
+    one shard from your deck (excluding event shards) for a chance to receive rewards."
+  FRTitle: 
+  FRDesc: "<b>Carte d\u2019\xE9change</b> : \xC9changez de l\u2019argent et du co\xFBt
+    entre eux.\n<b>Carte du jeu de bonneteau</b> : Payez de l\u2019argent pour choisir
+    une des trois options et recevoir une r\xE9compense al\xE9atoire.\n<b>Carte de
+    pri\xE8re</b> : Augmentez le niveau maximum d\u2019une unit\xE9. (niveau max
+    9)\n<b>Carte du Dragon du Chaos</b> : Supprimez d\xE9finitivement un type de
+    fragment de votre deck (\xE0 l\u2019exception des fragments d\u2019\xE9v\xE9nement)
+    en \xE9change de diverses r\xE9compenses.\n<b>Carte de duplication</b> : S\xE9lectionnez
+    un fragment dans votre deck et dupliquez-le.\n<b>Carte de la Source Sacr\xE9e</b>
+    : R\xE9initialisez le niveau d\u2019une unit\xE9 ; les pierres d\u2019am\xE9lioration
+    utilis\xE9es sont restitu\xE9es.\n<b>Carte de don</b> : Faites don d\u2019un
+    fragment de votre deck (\xE0 l\u2019exception des fragments d\u2019\xE9v\xE9nement)
+    pour avoir une chance d\u2019obtenir une r\xE9compense."
+  ITTitle: 
+  ITDesc: "<b>Mappa di scambio</b>: Scambia denaro e costo tra loro.\n<b>Mappa del
+    gioco dei tre gusci</b>: Paga denaro per scegliere una delle tre opzioni e ricevere
+    una ricompensa casuale.\n<b>Mappa di preghiera</b>: Aumenta il livello massimo
+    di un\u2019unit\xE0. (livello max 9)\n<b>Mappa del Drago del Caos</b>: Rimuovi
+    permanentemente un tipo di frammento dal tuo mazzo (esclusi i frammenti evento)
+    in cambio di varie ricompense.\n<b>Mappa di duplicazione</b>: Seleziona un frammento
+    nel tuo mazzo e duplicalo.\n<b>Mappa della Fonte Sacra</b>: Reimposta il livello
+    di un\u2019unit\xE0; le pietre di potenziamento usate vengono restituite.\n<b>Mappa
+    delle donazioni</b>: Dona un frammento dal tuo mazzo (esclusi i frammenti evento)
+    per avere la possibilit\xE0 di ottenere una ricompensa."
+  DETitle: 
+  DEDesc: "<b>Tausch-Map</b>: Tausche Geld und Kosten gegeneinander.\n<b>Gaukler-Map</b>:
+    Zahle Geld, um eine von drei Optionen zu w\xE4hlen und eine zuf\xE4llige Belohnung
+    zu erhalten.\n<b>Gebets-Map</b>: Erh\xF6he das maximale Level einer Einheit.
+    (max Level 9)\n<b>Chaos-Dragon-Map</b>: Entferne dauerhaft einen Fragmenttyp
+    aus deinem Deck (ausgenommen Eventfragmente) im Tausch gegen verschiedene Belohnungen.\n<b>Duplikations-Map</b>:
+    W\xE4hle ein Fragment in deinem Deck und dupliziere es.\n<b>Heilige-Quelle-Map</b>:
+    Setze das Level einer Einheit zur\xFCck; verwendete Verst\xE4rkungssteine werden
+    zur\xFCckerstattet.\n<b>Spenden-Map</b>: Spende ein Fragment aus deinem Deck
+    (ausgenommen Eventfragmente), um mit einer gewissen Wahrscheinlichkeit Belohnungen
+    zu erhalten."
+  ESTitle: 
+  ESDesc: "<b>Mapa de intercambio</b>: Intercambia dinero y coste entre s\xED.\n<b>Mapa
+    del juego de conchas</b>: Paga dinero para elegir una de tres opciones y recibir
+    una recompensa aleatoria.\n<b>Mapa de oraci\xF3n</b>: Incrementa el nivel m\xE1ximo
+    de una unidad. (nivel m\xE1ximo 9)\n<b>Mapa del Drag\xF3n del Caos</b>: Elimina
+    permanentemente un tipo de fragmento de tu mazo (excluyendo fragmentos de evento)
+    a cambio de diversas recompensas.\n<b>Mapa de duplicaci\xF3n</b>: Selecciona
+    un fragmento en tu mazo y dupl\xEDcalo.\n<b>Mapa de la Fuente Santa</b>: Restablece
+    el nivel de una unidad; las piedras de mejora usadas se devuelven.\n<b>Mapa de
+    donaci\xF3n</b>: Dona un fragmento de tu mazo (excluyendo fragmentos de evento)
+    para tener la posibilidad de obtener recompensas."
+  JATitle: 
+  JADesc: "<b>\u53D6\u5F15\u30DE\u30C3\u30D7</b>: \u304A\u91D1\u3068\u30B3\u30B9\u30C8\u3092\u4EA4\u63DB\u3067\u304D\u307E\u3059\u3002\n<b>\u4E09\u679A\u76EE\u30DE\u30C3\u30D7</b>:
+    \u304A\u91D1\u3092\u652F\u6255\u3063\u30663\u3064\u306E\u4E2D\u304B\u30891\u3064\u3092\u9078\u3073\u3001\u30E9\u30F3\u30C0\u30E0\u306A\u5831\u916C\u3092\u5F97\u3089\u308C\u307E\u3059\u3002\n<b>\u7948\u308A\u30DE\u30C3\u30D7</b>:
+    \u30E6\u30CB\u30C3\u30C81\u4F53\u306E\u6700\u5927\u30EC\u30D9\u30EB\u3092\u4E0A\u3052\u3089\u308C\u307E\u3059\u3002\uFF08\u6700\u5927\u30EC\u30D9\u30EB9\uFF09\n<b>\u30AB\u30AA\u30B9\u30C9\u30E9\u30B4\u30F3\u30DE\u30C3\u30D7</b>:
+    \u30C7\u30C3\u30AD\u306B\u3042\u308B\u7834\u7247\u306E\u3046\u30611\u7A2E\uFF08\u30A4\u30D9\u30F3\u30C8\u7834\u7247\u3092\u9664\u304F\uFF09\u3092\u6C38\u4E45\u306B\u9664\u5916\u3059\u308B\u4EE3\u308F\u308A\u306B\u3001\u69D8\u3005\u306A\u5831\u916C\u3092\u5F97\u3089\u308C\u307E\u3059\u3002\n<b>\u8907\u88FD\u30DE\u30C3\u30D7</b>:
+    \u30C7\u30C3\u30AD\u5185\u306E\u7834\u72471\u3064\u3092\u9078\u3093\u3067\u8907\u88FD\u3067\u304D\u307E\u3059\u3002\n<b>\u8056\u306A\u308B\u6CC9\u30DE\u30C3\u30D7</b>:
+    \u30E6\u30CB\u30C3\u30C81\u4F53\u306E\u30EC\u30D9\u30EB\u3092\u521D\u671F\u5316\u3067\u304D\u3001\u4F7F\u7528\u3057\u305F\u5F37\u5316\u77F3\u306F\u8FD4\u9084\u3055\u308C\u307E\u3059\u3002\n<b>\u5BC4\u4ED8\u30DE\u30C3\u30D7</b>:
+    \u30C7\u30C3\u30AD\u306B\u3042\u308B\u7834\u72471\u3064\uFF08\u30A4\u30D9\u30F3\u30C8\u7834\u7247\u3092\u9664\u304F\uFF09\u3092\u5BC4\u4ED8\u3059\u308B\u3068\u3001\u78BA\u7387\u3067\u5831\u916C\u3092\u7372\u5F97\u3067\u304D\u307E\u3059\u3002"
+  PT_BRTitle: 
+  PT_BRDesc: "<b>Mapa de troca</b>: Troque dinheiro e custo entre si.\n<b>Mapa do
+    jogo da concha</b>: Pague dinheiro para escolher uma das tr\xEAs op\xE7\xF5es
+    e receber uma recompensa aleat\xF3ria.\n<b>Mapa de ora\xE7\xE3o</b>: Aumente
+    o n\xEDvel m\xE1ximo de uma unidade. (n\xEDvel m\xE1ximo 9)\n<b>Mapa do Drag\xE3o
+    do Caos</b>: Remova permanentemente um tipo de fragmento do seu deck (excluindo
+    fragmentos de evento) em troca de v\xE1rias recompensas.\n<b>Mapa de duplica\xE7\xE3o</b>:
+    Selecione um fragmento no seu deck e duplique-o.\n<b>Mapa da Fonte Santa</b>:
+    Redefina o n\xEDvel de uma unidade; quaisquer pedras de aprimoramento usadas
+    s\xE3o devolvidas.\n<b>Mapa de doa\xE7\xE3o</b>: Doe um fragmento do seu deck
+    (excluindo fragmentos de evento) para ter a chance de receber recompensas."
+  RUTitle: 
+  RUDesc: "<b>\u041A\u0430\u0440\u0442\u0430 \u043E\u0431\u043C\u0435\u043D\u0430</b>:
+    \u041E\u0431\u043C\u0435\u043D\u0438\u0432\u0430\u0439\u0442\u0435 \u0434\u0435\u043D\u044C\u0433\u0438
+    \u0438 \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u044C \u043C\u0435\u0436\u0434\u0443
+    \u0441\u043E\u0431\u043E\u0439.\n<b>\u041A\u0430\u0440\u0442\u0430 \u0436\u0443\u043B\u044C\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u0430</b>:
+    \u0417\u0430\u043F\u043B\u0430\u0442\u0438\u0442\u0435 \u0434\u0435\u043D\u044C\u0433\u0438,
+    \u0447\u0442\u043E\u0431\u044B \u0432\u044B\u0431\u0440\u0430\u0442\u044C \u043E\u0434\u0438\u043D
+    \u0438\u0437 \u0442\u0440\u0451\u0445 \u0432\u0430\u0440\u0438\u0430\u043D\u0442\u043E\u0432
+    \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C \u0441\u043B\u0443\u0447\u0430\u0439\u043D\u0443\u044E
+    \u043D\u0430\u0433\u0440\u0430\u0434\u0443.\n<b>\u041A\u0430\u0440\u0442\u0430
+    \u043C\u043E\u043B\u0438\u0442\u0432\u044B</b>: \u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+    \u043C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u044B\u0439 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+    \u043E\u0434\u043D\u043E\u0433\u043E \u044E\u043D\u0438\u0442\u0430. (\u043C\u0430\u043A\u0441
+    \u0443\u0440\u043E\u0432\u0435\u043D\u044C 9)\n<b>\u041A\u0430\u0440\u0442\u0430
+    \u0425\u0430\u043E\u0441\u0430 \u0414\u0440\u0430\u043A\u043E\u043D\u0430</b>:
+    \u0423\u0434\u0430\u043B\u0438\u0442\u0435 \u043D\u0430\u0432\u0441\u0435\u0433\u0434\u0430
+    \u043E\u0434\u0438\u043D \u0442\u0438\u043F \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u0430
+    \u0438\u0437 \u0432\u0430\u0448\u0435\u0439 \u043A\u043E\u043B\u043E\u0434\u044B
+    (\u0437\u0430 \u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435\u043C
+    \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432 \u0441\u043E\u0431\u044B\u0442\u0438\u0439)
+    \u0432 \u043E\u0431\u043C\u0435\u043D \u043D\u0430 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0435
+    \u043D\u0430\u0433\u0440\u0430\u0434\u044B.\n<b>\u041A\u0430\u0440\u0442\u0430
+    \u0434\u0443\u0431\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F</b>:
+    \u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u043E\u0434\u0438\u043D \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442
+    \u0432 \u0432\u0430\u0448\u0435\u0439 \u043A\u043E\u043B\u043E\u0434\u0435 \u0438
+    \u0434\u0443\u0431\u043B\u0438\u0440\u0443\u0439\u0442\u0435 \u0435\u0433\u043E.\n<b>\u041A\u0430\u0440\u0442\u0430
+    \u0421\u0432\u044F\u0442\u043E\u0433\u043E \u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0430</b>:
+    \u0421\u0431\u0440\u043E\u0441\u044C\u0442\u0435 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+    \u043E\u0434\u043D\u043E\u0433\u043E \u044E\u043D\u0438\u0442\u0430; \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u043D\u044B\u0435
+    \u043A\u0430\u043C\u043D\u0438 \u0443\u0441\u0438\u043B\u0435\u043D\u0438\u044F
+    \u0432\u043E\u0437\u0432\u0440\u0430\u0449\u0430\u044E\u0442\u0441\u044F.\n<b>\u041A\u0430\u0440\u0442\u0430
+    \u043F\u043E\u0436\u0435\u0440\u0442\u0432\u043E\u0432\u0430\u043D\u0438\u044F</b>:
+    \u041F\u043E\u0436\u0435\u0440\u0442\u0432\u0443\u0439\u0442\u0435 \u043E\u0434\u0438\u043D
+    \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442 \u0438\u0437 \u0432\u0430\u0448\u0435\u0439
+    \u043A\u043E\u043B\u043E\u0434\u044B (\u0437\u0430 \u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435\u043C
+    \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432 \u0441\u043E\u0431\u044B\u0442\u0438\u0439)
+    \u0434\u043B\u044F \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u044F \u0441\u043B\u0443\u0447\u0430\u0439\u043D\u043E\u0439
+    \u043D\u0430\u0433\u0440\u0430\u0434\u044B."
+  ZH_HANSTitle: 
+  ZH_HANSDesc: "<b>\u4EA4\u6613\u5730\u56FE</b>\uFF1A\u53EF\u4E92\u76F8\u4EA4\u6362\u91D1\u94B1\u4E0E\u8D39\u7528\u3002\n<b>\u620F\u6CD5\u5730\u56FE</b>\uFF1A\u652F\u4ED8\u91D1\u94B1\u4EE5\u4ECE\u4E09\u9879\u4E2D\u9009\u62E9\u4E00\u9879\u5E76\u83B7\u5F97\u968F\u673A\u5956\u52B1\u3002\n<b>\u7948\u7977\u5730\u56FE</b>\uFF1A\u63D0\u5347\u4E00\u540D\u5355\u4F4D\u7684\u6700\u5927\u7B49\u7EA7\u3002\uFF08\u6700\u9AD89\u7EA7\uFF09\n<b>\u6DF7\u6C8C\u9F99\u5730\u56FE</b>\uFF1A\u6C38\u4E45\u79FB\u9664\u4F60\u5361\u7EC4\u4E2D\u4E00\u79CD\u788E\u7247\uFF08\u4E8B\u4EF6\u788E\u7247\u9664\u5916\uFF09\uFF0C\u4EE5\u6362\u53D6\u591A\u79CD\u5956\u52B1\u3002\n<b>\u590D\u5236\u5730\u56FE</b>\uFF1A\u9009\u62E9\u5361\u7EC4\u4E2D\u7684\u4E00\u4E2A\u788E\u7247\u5E76\u590D\u5236\u5B83\u3002\n<b>\u5723\u6C34\u5730\u56FE</b>\uFF1A\u91CD\u7F6E\u4E00\u540D\u5355\u4F4D\u7684\u7B49\u7EA7\uFF1B\u5DF2\u4F7F\u7528\u7684\u5F3A\u5316\u77F3\u4F1A\u8FD4\u8FD8\u3002\n<b>\u6350\u732E\u5730\u56FE</b>\uFF1A\u6350\u732E\u5361\u7EC4\u4E2D\u4E00\u79CD\u788E\u7247\uFF08\u4E8B\u4EF6\u788E\u7247\u9664\u5916\uFF09\uFF0C\u6709\u6982\u7387\u83B7\u5F97\u5956\u52B1\u3002"

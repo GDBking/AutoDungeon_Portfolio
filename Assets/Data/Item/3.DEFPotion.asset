@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 210830949eff86141bc7b051926c63b7, type: 3}
+  m_Name: 3.DEFPotion
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemLevel: 0
+  itemName: "\uBAA8\uD5D8\uAC00\uC758 \uAC11\uC637"
+  itemDesc: "\uBC29\uC5B4\uB825 +40"
+  ENItemName: Adventurer's Armor
+  ENItemDesc: Defense +40
+  FRItemName: Armure de l'aventurier
+  FRItemDesc: "D\xE9fense +40"
+  ITItemName: Armatura dell'avventuriero
+  ITItemDesc: Difesa +40
+  DEItemName: "Abenteurer-R\xFCstung"
+  DEItemDesc: Verteidigung +40
+  ESItemName: Armadura del aventurero
+  ESItemDesc: Defensa +40
+  JAItemName: "\u5192\u967A\u8005\u306E\u93A7"
+  JAItemDesc: "\u9632\u5FA1\u529B +40"
+  PT_BRItemName: Armadura do Aventureiro
+  PT_BRItemDesc: Defesa +40
+  RUItemName: "\u0414\u043E\u0441\u043F\u0435\u0445 \u0438\u0441\u043A\u0430\u0442\u0435\u043B\u044F"
+  RUItemDesc: "\u0417\u0430\u0449\u0438\u0442\u0430 +40"
+  ZH_HANSItemName: "\u5192\u9669\u8005\u7684\u76D4\u7532"
+  ZH_HANStemDesc: "\u9632\u5FA1\u529B +40"
+  itemIcon: {fileID: 21300000, guid: d3a2bd9bf3a0e0e4285f5692b8b2157a, type: 3}
+  cost: 1
+  itemID: item_def_potion
+  heal: 0
+  ATK: 0
+  DEF: 40
+  DPS: 0
+  LS: 0
+  CRT: 0

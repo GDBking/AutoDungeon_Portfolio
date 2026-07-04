@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 694b66005ccac71409114fe8cae9ef70, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 146277892096
+    m_Localized: "Das Tor zu einem neuen Anfang schlummert hier. Dr\xFCcke auf das
+      Symbol unten, um es zu erwecken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13598681694208
+    m_Localized: "\xD6ffne das Deck, um deine vorhandenen Fragmente anzuzeigen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29235755843584
+    m_Localized: "Dr\xFCcke erneut auf das Deck, um die aktuelle Deck-Zusammenstellung
+      zu \xFCberpr\xFCfen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29401237913600
+    m_Localized: "Bewege den Mauszeiger \xFCber eine Einheit, um ihren Titel im linken
+      Statusfenster anzuzeigen.\\nAlternativ kannst du die Umschalttaste gedr\xFCckt
+      halten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29687717265408
+    m_Localized: "Dr\xFCcke erneut auf das Deck, um es zu schlie\xDFen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29886749573120
+    m_Localized: "Das Relikt oben in der Mitte zeigt den Titel an, der jeder Einheit
+      zuf\xE4llig zugewiesen wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29890876768256
+    m_Localized: "Dr\xFCcke die Schaltfl\xE4che zur Erstellung einer Basiseinheit,
+      um eine Basiseinheit zu beschw\xF6ren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32836146397184
+    m_Localized: Ziehe eine Einheit aus deiner Hand auf eine Basiseinheit auf dem
+      Feld, um sie zu verwandeln.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 685354316693504
+    m_Localized: "Kleine Entscheidungen formen die Taktik. Nimm dir Zeit und w\xE4hle
+      den sinnvollsten Weg. Viel Gl\xFCck."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29889668808704
+    m_Localized: "Die Relikte unten links sind derzeit aktiv.\\nAktive Relikte gew\xE4hren
+      allen verb\xFCndeten Einheiten je nach Titel Boni oder Mali."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314232547016704
+    m_Localized: "K\xE4mpfe haben ein Zeitlimit.\\nStirbt eine Einheit, wird ihr
+      Kostenwert in Punkte f\xFCr den Gegner umgewandelt.\\nWer beim Ablauf der Zeit
+      mehr Punkte hat, gewinnt."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

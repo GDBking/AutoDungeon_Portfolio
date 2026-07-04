@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Reward & Event Map
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 789eaf705a6077a4585d5919decfcaa8, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 270ff1c5a4071e14f823d54e7ba3eb65, type: 2}
+  - {fileID: 11400000, guid: d321c464cd0ba69498d1fe80aa087f79, type: 2}
+  - {fileID: 11400000, guid: 7fd42647f71716242a13368a3eded3a3, type: 2}
+  - {fileID: 11400000, guid: ad599312491998b47b335adb81da5813, type: 2}
+  - {fileID: 11400000, guid: 78d5bf595fa0be9418fe7831f4048c60, type: 2}
+  - {fileID: 11400000, guid: 4b9ade9f4e424274dac614fa8e8515bd, type: 2}
+  - {fileID: 11400000, guid: 04d1f2850debf414fa88d654268594d2, type: 2}
+  - {fileID: 11400000, guid: b7a1cf978853d524c8c6a626abff09ae, type: 2}
+  - {fileID: 11400000, guid: b0604b58c8768a84b956e6621aa6d712, type: 2}
+  - {fileID: 11400000, guid: 909bab1c55048294f8af1643c2328fd2, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

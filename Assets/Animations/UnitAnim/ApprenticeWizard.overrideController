@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ApprenticeWizard
+  m_Controller: {fileID: 9100000, guid: 2bbd112a5ad163141abd28f272b9d2db, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0ccf1b02bb822aa4295fde82d880c123, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a5a5400cde000c340ae47110f4161f14, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e8704a20d8daf71468cf58ef374590d6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8197574a3035f914ba91c2d4c77803ef, type: 2}

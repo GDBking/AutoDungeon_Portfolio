@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 210830949eff86141bc7b051926c63b7, type: 3}
+  m_Name: 5.LSPotion11
+  m_EditorClassIdentifier: 
+  itemType: 4
+  itemLevel: 2
+  itemName: "\uC624\uB9AC\uC628\uC758 \uC7A5\uC2E0\uAD6C"
+  itemDesc: "\uD53C\uD574 \uD761\uD608 +35%p"
+  ENItemName: Orion's Accessory
+  ENItemDesc: Life Steal +35%p
+  FRItemName: Bijou d'Orion
+  FRItemDesc: Vol de vie +35%p
+  ITItemName: Accessorio di Orione
+  ITItemDesc: Furto di vita +35%p
+  DEItemName: Orions-Schmuck
+  DEItemDesc: Lebensraub +35%p
+  ESItemName: "Accesorio de Ori\xF3n"
+  ESItemDesc: Robo de vida +35%p
+  JAItemName: "\u30AA\u30EA\u30AA\u30F3\u306E\u88C5\u98FE\u54C1"
+  JAItemDesc: "\u30E9\u30A4\u30D5\u5438\u53CE +35%p"
+  PT_BRItemName: "Acess\xF3rio de Orion"
+  PT_BRItemDesc: Roubo de vida +35%p
+  RUItemName: "\u0410\u043A\u0441\u0435\u0441\u0441\u0443\u0430\u0440 \u041E\u0440\u0438\u043E\u043D\u0430"
+  RUItemDesc: "\u041F\u043E\u0445\u0438\u0449\u0435\u043D\u0438\u0435 \u0436\u0438\u0437\u043D\u0438
+    +35%p"
+  ZH_HANSItemName: "\u730E\u6237\u5EA7\u7684\u9970\u54C1"
+  ZH_HANStemDesc: "\u5438\u8840 +35%p"
+  itemIcon: {fileID: 21300000, guid: 498ccf02cdfbfa54994744ae590eff27, type: 3}
+  cost: 1
+  itemID: item_ls_potion11
+  heal: 0
+  ATK: 0
+  DEF: 0
+  DPS: 0
+  LS: 35
+  CRT: 0

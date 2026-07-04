@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3578639330835516847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7444675206163884885}
+  - component: {fileID: 8454732419693468007}
+  - component: {fileID: 5988210919278537711}
+  - component: {fileID: 1956227050837659634}
+  m_Layer: 5
+  m_Name: 6.Humility
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &7444675206163884885
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 55, y: 55}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8454732419693468007
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_CullTransparentMesh: 1
+--- !u!114 &5988210919278537711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 3d66c12f3b81d2847aeabdcb72f2cb09, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &1956227050837659634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49b393f09ba550d4fa934d5f206aef4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: 5
+  relicsName: "\uBBF8\uCE74\uC5D8(\uACB8\uC190)\uC758 \uC720\uBB3C"
+  desc: "\uACB8\uC190\uD55C \uC720\uB2DB\uC5D0\uAC8C \uB9E4\uC6B0 \uAC15\uD55C \uBC84\uD504\uB97C
+    \uBD80\uC5EC\uD569\uB2C8\uB2E4."
+  ENRelicsName: Relic of Mikael (Humility)
+  ENDesc: Grants a very strong buff to Humble units.
+  FRRelicsName: "Relique de Mikael (Humilit\xE9)"
+  FRDesc: "Conf\xE8re un bonus tr\xE8s puissant aux unit\xE9s humbles."
+  ITRelicsName: "Reliquia di Mikael (Umilt\xE0)"
+  ITDesc: "Conferisce un potenziamento molto forte alle unit\xE0 umili."
+  DERelicsName: Relikt von Mikael (Demut)
+  DEDesc: "Verleiht dem\xFCtigen Einheiten einen sehr starken Buff."
+  ESRelicsName: Reliquia de Mikael (Humildad)
+  ESDesc: Otorga un beneficio muy fuerte a las unidades humildes.
+  JARelicsName: "\u30DF\u30AB\u30A8\u30EB\uFF08\u8B19\u905C\uFF09\u306E\u907A\u7269"
+  JADesc: "\u8B19\u905C\u306A\u30E6\u30CB\u30C3\u30C8\u306B\u975E\u5E38\u306B\u5F37\u3044\u30D0\u30D5\u3092\u4ED8\u4E0E\u3057\u307E\u3059\u3002"
+  PT_BRRelicsName: "Rel\xEDquia de Mikael (Humildade)"
+  PT_BRDesc: "Concede um buff muito forte \xE0s unidades humildes."
+  RURelicsName: "\u0420\u0435\u043B\u0438\u043A\u0432\u0438\u044F \u041C\u0438\u043A\u0430\u044D\u043B\u044F
+    (\u0421\u043C\u0438\u0440\u0435\u043D\u0438\u0435)"
+  RUDesc: "\u0414\u0430\u0451\u0442 \u043E\u0447\u0435\u043D\u044C \u0441\u0438\u043B\u044C\u043D\u044B\u0439
+    \u0431\u0430\u0444\u0444 \u0441\u043C\u0438\u0440\u0435\u043D\u043D\u044B\u043C
+    \u044E\u043D\u0438\u0442\u0430\u043C."
+  ZH_HANSRelicsName: "\u7C73\u8FE6\u52D2\uFF08\u8C26\u5351\uFF09\u4E4B\u9057\u7269"
+  ZH_HANSDesc: "\u7ED9\u4E88\u8C26\u5351\u5355\u4F4D\u975E\u5E38\u5F3A\u529B\u7684\u589E\u76CA\u3002"
+  isActive: 0

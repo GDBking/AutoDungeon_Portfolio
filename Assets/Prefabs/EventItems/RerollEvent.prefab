@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4258178194658957986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7539272049646151793}
+  - component: {fileID: 8892105575436790828}
+  - component: {fileID: 9196173189991432808}
+  - component: {fileID: 4114873441121072084}
+  - component: {fileID: 6654507321790676103}
+  - component: {fileID: 61159842362175505}
+  - component: {fileID: -1748035237522945238}
+  m_Layer: 5
+  m_Name: RerollEvent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &7539272049646151793
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -15}
+  m_SizeDelta: {x: 72, y: 72}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8892105575436790828
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_CullTransparentMesh: 1
+--- !u!114 &9196173189991432808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: e3723acd6567ef04394a458dfee3ac6a, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!225 &4114873441121072084
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &6654507321790676103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9285414f638636c4991503584ce23cea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventMaterial: {fileID: 2100000, guid: 87497d47e3aa0ca4d8eeea500cf5ad9f, type: 2}
+  cardMaterial: {fileID: 2100000, guid: 80a806304ae01834c8474129ced39f45, type: 2}
+  minValue: -0.3
+  maxValue: 0.87
+  getValue: 0.87
+  eventUseClip: {fileID: 8300000, guid: 9943c33b2b0ad89469a30625cd46cb6b, type: 3}
+--- !u!114 &61159842362175505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee742850ca9ca8d4c88d786d16641abb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+  money: 500
+  ID: event_reroll
+  itemName: "\uC6B4\uBA85\uC758 \uC7A5"
+  desc: "\uD3BC\uCCD0\uC9C4 \uC870\uAC01\uB4E4\uC744 \uBAA8\uB450 \uBC84\uB9AC\uACE0
+    \uC0C8\uB85C\uC6B4 \uC870\uAC01\uB4E4\uC744 \uB4DC\uB85C\uC6B0 \uD569\uB2C8\uB2E4."
+  ENItemName: Tome of Fate
+  ENDesc: Discard all revealed shards and draw new shards.
+  FRItemName: Tome du Destin
+  FRDesc: "Jette tous les fragments d\xE9voil\xE9s et pioche de nouveaux fragments."
+  ITItemName: Tomo del Fato
+  ITDesc: Scarta tutti i frammenti mostrati e pesca nuovi frammenti.
+  DEItemName: Foliant des Schicksals
+  DEDesc: Wirft alle aufgedeckten Splitter ab und zieht neue.
+  ESItemName: Tomo del Destino
+  ESDesc: Descarta todos los fragmentos desplegados y roba nuevos fragmentos.
+  JAItemName: "\u904B\u547D\u306E\u66F8"
+  JADesc: "\u5C55\u958B\u3055\u308C\u3066\u3044\u308B\u5168\u3066\u306E\u7834\u7247\u3092\u6368\u3066\u3001\u65B0\u3057\u3044\u7834\u7247\u3092\u30C9\u30ED\u30FC\u3057\u307E\u3059\u3002"
+  PT_BRItemName: Tomo do Destino
+  PT_BRDesc: Descarte todos os fragmentos expostos e compre novos fragmentos.
+  RUItemName: "\u0422\u043E\u043C \u0421\u0443\u0434\u044C\u0431\u044B"
+  RUDesc: "\u0421\u0431\u0440\u043E\u0441\u044C\u0442\u0435 \u0432\u0441\u0435 \u0440\u0430\u0441\u043A\u0440\u044B\u0442\u044B\u0435
+    \u043E\u0441\u043A\u043E\u043B\u043A\u0438 \u0438 \u0432\u044B\u0442\u044F\u043D\u0438\u0442\u0435
+    \u043D\u043E\u0432\u044B\u0435."
+  ZH_HANSItemName: "\u547D\u8FD0\u4E4B\u4E66"
+  ZH_HANSDesc: "\u4E22\u5F03\u6240\u6709\u5DF2\u5C55\u5F00\u7684\u788E\u7247\u5E76\u62BD\u53D6\u65B0\u7684\u788E\u7247\u3002"
+--- !u!114 &-1748035237522945238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258178194658957986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182290e2a4fd0364ea60373e4095d11f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

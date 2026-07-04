@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c689c08a9e7a944693e239dc32e42e3, type: 3}
+  m_Name: 29.Achievement
+  m_EditorClassIdentifier: 
+  ID: 29
+  Icon: {fileID: 21300000, guid: 03cc719a0cc5b7848b9cf7426a2fc43a, type: 3}
+  Title: "\uBCF4\uB2F5 \uC5C6\uB294 \uC120\uC758"
+  Desc: "\uADF8\uB0A0\uC740 \uC544\uBB34 \uC77C\uB3C4 \uC77C\uC5B4\uB098\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4."
+  ENTitle: Unreturned Kindness
+  ENDesc: Nothing happened that day.
+  FRTitle: "Bont\xE9 non rendue"
+  FRDesc: "Ce jour-l\xE0, rien ne s\u2019est produit."
+  ITTitle: Gentilezza non ricambiata
+  ITDesc: Quel giorno non accadde nulla.
+  DETitle: "Unvergoltene G\xFCte"
+  DEDesc: An diesem Tag geschah nichts.
+  ESTitle: Bondad no correspondida
+  ESDesc: "Aquel d\xEDa no ocurri\xF3 nada."
+  JATitle: "\u5C4A\u304B\u306A\u304B\u3063\u305F\u5584\u610F"
+  JADesc: "\u305D\u306E\u65E5\u3001\u4F55\u3082\u8D77\u3053\u3089\u306A\u304B\u3063\u305F\u3002"
+  PT_BRTitle: "Bondade N\xE3o Correspondida"
+  PT_BRDesc: Naquele dia, nada aconteceu.
+  RUTitle: "\u041D\u0435\u043E\u0442\u0432\u0435\u0447\u0435\u043D\u043D\u0430\u044F
+    \u0434\u043E\u0431\u0440\u043E\u0442\u0430"
+  RUDesc: "\u0412 \u0442\u043E\u0442 \u0434\u0435\u043D\u044C \u043D\u0435 \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u043E
+    \u043D\u0438\u0447\u0435\u0433\u043E."
+  ZH_HANSTitle: "\u672A\u88AB\u56DE\u5E94\u7684\u5584\u610F"
+  ZH_HANSDesc: "\u90A3\u4E00\u5929\uFF0C\u4EC0\u4E48\u4E5F\u6CA1\u6709\u53D1\u751F\u3002"

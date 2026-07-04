@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96efabfa0d413f340b7e4b049eea0558, type: 3}
+  m_Name: 7.GuideEntry
+  m_EditorClassIdentifier: 
+  Title: "\uC2B9\uB9AC \uC870\uAC74\uACFC \uC804\uB9AC\uD488"
+  Desc: "\uC804\uD22C \uC2DC\uAC04 \uB0B4\uC5D0 \uB354 \uB9CE\uC740 \uC810\uC218\uB97C
+    \uD68D\uB4DD\uD55C \uC9C4\uD615\uC774 \uC2B9\uB9AC\uD569\uB2C8\uB2E4.\r\n\uC81C\uD55C
+    \uC2DC\uAC04\uC774 \uC885\uB8CC\uB41C \uD6C4 \uB3D9\uC810\uC77C \uACBD\uC6B0,
+    \uBA3C\uC800 \uC810\uC218\uB97C 1\uC810 \uC774\uC0C1 \uD68D\uB4DD\uD55C \uC9C4\uD615\uC774
+    \uC2B9\uB9AC\uD569\uB2C8\uB2E4.\r\n\r\n\uC720\uB2DB\uB9C8\uB2E4 \uC874\uC7AC\uD558\uB294
+    \uCF54\uC2A4\uD2B8\uB294 \uC810\uC218\uB85C \uD658\uC0B0\uB418\uBA70, \uC804\uD22C
+    \uC2DC\uAC04\uC740 \uC77C\uBC18 / \uC5D8\uB9AC\uD2B8 / \uBCF4\uC2A4 \uC804\uD22C\uC5D0
+    \uB530\uB77C \uB2E4\uB974\uAC8C \uC801\uC6A9\uB429\uB2C8\uB2E4.\r\n\r\n\uC804\uB9AC\uD488\uC740
+    \uC804\uD22C \uC720\uD615\uC5D0 \uB530\uB77C \uB2E4\uB974\uAC8C \uD68D\uB4DD\uB429\uB2C8\uB2E4.\r\n\r\n<b>\uC77C\uBC18
+    \uC804\uD22C</b>\r\n- \uAE30\uBCF8 \uC804\uB9AC\uD488\uC744 \uD68D\uB4DD\uD569\uB2C8\uB2E4.\r\n\r\n<b>\uC5D8\uB9AC\uD2B8
+    \uC804\uD22C</b>\r\n- \uC77C\uBC18 \uC804\uD22C\uBCF4\uB2E4 \uCF54\uC2A4\uD2B8\uB97C
+    \uC81C\uC678\uD55C \uBCF4\uC0C1\uC774 \uB354 \uB9CE\uC774 \uC9C0\uAE09\uB429\uB2C8\uB2E4.\r\n-
+    \uC544\uAD70 \uC720\uBB3C\uC758 \uAC00\uC911\uCE58\uB97C \uC99D\uAC00\uC2DC\uD0AC
+    \uC218 \uC788\uB294 \uC804\uB9AC\uD488\uC744 \uD68D\uB4DD\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.\r\n\r\n<b>\uBCF4\uC2A4
+    \uC804\uD22C</b>\r\n- \uC5D8\uB9AC\uD2B8 \uC804\uD22C\uBCF4\uB2E4 \uCF54\uC2A4\uD2B8\uB97C
+    \uD3EC\uD568\uD55C \uB354 \uB9CE\uC740 \uC804\uB9AC\uD488\uC744 \uD68D\uB4DD\uD560
+    \uC218 \uC788\uC2B5\uB2C8\uB2E4.\r\n- \uC801 \uC720\uBB3C\uC758 \uB514\uBC84\uD504
+    \uACC4\uC218\uB97C \uB0AE\uCD94\uB294 \uC804\uB9AC\uD488\uC744 \uD68D\uB4DD\uD560
+    \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  ENTitle: 
+  ENDesc: "The formation that earns the higher score within the battle time wins.
+    If scores are tied after the time limit, the formation that first increases its
+    score by at least 1 point wins.\n\nEach unit\u2019s cost is converted into score,
+    and battle time varies depending on whether the fight is Normal, Elite, or Boss.\n\nLoot
+    differs by encounter type.\n\n<b>Normal Encounter</b>\n- Receive basic loot.\n\n<b>Elite
+    Encounter</b>\n- Grants more rewards than normal encounters except for costs.\n-
+    You can obtain loot that increases the weight of allied relics.\n\n<b>Boss Encounter</b>\n-
+    Grants more loot than elite encounters, including costs.\n- You can obtain loot
+    that lowers the debuff multiplier of enemy relics."
+  FRTitle: 
+  FRDesc: "La formation qui obtient le meilleur score pendant le temps de combat
+    gagne. Si les scores sont \xE0 \xE9galit\xE9 apr\xE8s la limite de temps, la
+    formation qui augmente son score d\u2019au moins 1 point en premier remporte
+    la victoire.\n\nLe co\xFBt de chaque unit\xE9 est converti en score, et la dur\xE9e
+    du combat varie selon qu\u2019il s\u2019agit d\u2019un affrontement Normal, \xC9lite
+    ou Boss.\n\nLes butins diff\xE8rent selon le type de rencontre.\n\n<b>Affrontement
+    Normal</b>\n- Recevez le butin de base.\n\n<b>Affrontement \xC9lite</b>\n- Offre
+    plus de r\xE9compenses que les affrontements normaux, \xE0 l\u2019exception des
+    co\xFBts.\n- Permet d\u2019obtenir des butins qui augmentent le poids des reliques
+    alli\xE9es.\n\n<b>Affrontement Boss</b>\n- Offre plus de r\xE9compenses que les
+    affrontements \xE9lite, y compris les co\xFBts.\n- Permet d\u2019obtenir des
+    butins qui r\xE9duisent le coefficient de d\xE9buff des reliques ennemies."
+  ITTitle: 
+  ITDesc: "La formazione che ottiene il punteggio pi\xF9 alto entro il tempo di combattimento
+    vince. Se i punteggi sono in parit\xE0 dopo il tempo limite, la formazione che
+    per prima aumenta il proprio punteggio di almeno 1 punto vince.\n\nIl costo di
+    ogni unit\xE0 viene convertito in punteggio e il tempo di combattimento varia
+    a seconda che lo scontro sia Normale, Elite o Boss.\n\nI bottini variano in base
+    al tipo di incontro.\n\n<b>Incontro Normale</b>\n- Ricevi il bottino base.\n\n<b>Incontro
+    Elite</b>\n- Fornisce pi\xF9 ricompense rispetto agli scontri normali, ad eccezione
+    dei costi.\n- \xC8 possibile ottenere bottini che aumentano il peso delle reliquie
+    alleate.\n\n<b>Incontro Boss</b>\n- Fornisce pi\xF9 bottini rispetto agli scontri
+    \xE9lite, inclusi i costi.\n- \xC8 possibile ottenere bottini che riducono il
+    coefficiente di debuff delle reliquie nemiche."
+  DETitle: 
+  DEDesc: "Die Formation mit der h\xF6heren Punktzahl innerhalb der Kampfzeit gewinnt.
+    Bei Gleichstand nach Ablauf der Zeit gewinnt die Formation, die zuerst ihren
+    Punktestand um mindestens 1 Punkt erh\xF6ht.\n\nDie Kosten jeder Einheit werden
+    in Punkte umgerechnet, und die Kampfzeit variiert je nach Art des Kampfes (Normal
+    / Elite / Boss).\n\nBeute unterscheidet sich je nach Begegnungstyp.\n\n<b>Normale
+    Begegnung</b>\n- Erhalte grundlegende Beute.\n\n<b>Elite-Begegnung</b>\n- Gew\xE4hrt
+    mehr Belohnungen als normale Begegnungen, mit Ausnahme der Kosten.\n- Du kannst
+    Beute erhalten, die das Gewicht verb\xFCndeter Relikte erh\xF6ht.\n\n<b>Boss-Begegnung</b>\n-
+    Gew\xE4hrt mehr Beute als Elite-Begegnungen, einschlie\xDFlich Kosten.\n- Du
+    kannst Beute erhalten, die den Debuff-Faktor feindlicher Relikte verringert."
+  ESTitle: 
+  ESDesc: "La formaci\xF3n que obtenga la puntuaci\xF3n m\xE1s alta dentro del tiempo
+    de combate gana. Si las puntuaciones est\xE1n empatadas despu\xE9s del l\xEDmite
+    de tiempo, la formaci\xF3n que primero aumente su puntuaci\xF3n en al menos 1
+    punto gana.\n\nEl coste de cada unidad se convierte en puntuaci\xF3n y el tiempo
+    de combate var\xEDa seg\xFAn si la pelea es Normal, \xC9lite o Jefe.\n\nEl bot\xEDn
+    difiere seg\xFAn el tipo de encuentro.\n\n<b>Encuentro Normal</b>\n- Recibe bot\xEDn
+    b\xE1sico.\n\n<b>Encuentro \xC9lite</b>\n- Concede m\xE1s recompensas que los
+    encuentros normales, excepto los costes.\n- Puedes obtener bot\xEDn que aumenta
+    el peso de las reliquias aliadas.\n\n<b>Encuentro Jefe</b>\n- Concede m\xE1s
+    bot\xEDn que los encuentros \xE9lite, incluidos los costes.\n- Puedes obtener
+    bot\xEDn que reduce el multiplicador de debuff de las reliquias enemigas."
+  JATitle: 
+  JADesc: "\u6226\u95D8\u6642\u9593\u5185\u306B\u3088\u308A\u591A\u304F\u306E\u30B9\u30B3\u30A2\u3092\u7372\u5F97\u3057\u305F\u7DE8\u6210\u304C\u52DD\u5229\u3057\u307E\u3059\u3002\u6642\u9593\u5207\u308C\u5F8C\u306B\u540C\u70B9\u306E\u5834\u5408\u3001\u5148\u306B\u30B9\u30B3\u30A2\u30921\u70B9\u4EE5\u4E0A\u5897\u3084\u3057\u305F\u7DE8\u6210\u304C\u52DD\u5229\u3057\u307E\u3059\u3002\n\n\u5404\u30E6\u30CB\u30C3\u30C8\u306E\u30B3\u30B9\u30C8\u306F\u30B9\u30B3\u30A2\u306B\u63DB\u7B97\u3055\u308C\u3001\u6226\u95D8\u6642\u9593\u306F\u901A\u5E38
+    / \u30A8\u30EA\u30FC\u30C8 / \u30DC\u30B9\u6226\u3067\u7570\u306A\u308A\u307E\u3059\u3002\n\n\u30C9\u30ED\u30C3\u30D7\u306F\u906D\u9047\u30BF\u30A4\u30D7\u306B\u3088\u3063\u3066\u7570\u306A\u308A\u307E\u3059\u3002\n\n<b>\u901A\u5E38\u6226</b>\n-
+    \u57FA\u672C\u7684\u306A\u6226\u5229\u54C1\u3092\u7372\u5F97\u3057\u307E\u3059\u3002\n\n<b>\u30A8\u30EA\u30FC\u30C8\u6226</b>\n-
+    \u901A\u5E38\u6226\u3088\u308A\u30B3\u30B9\u30C8\u3092\u9664\u304F\u5831\u916C\u304C\u591A\u304F\u5F97\u3089\u308C\u307E\u3059\u3002\n-
+    \u5473\u65B9\u306E\u907A\u7269\u306E\u91CD\u307F\u3092\u5897\u52A0\u3055\u305B\u308B\u6226\u5229\u54C1\u3092\u5165\u624B\u3067\u304D\u308B\u5834\u5408\u304C\u3042\u308A\u307E\u3059\u3002\n\n<b>\u30DC\u30B9\u6226</b>\n-
+    \u30A8\u30EA\u30FC\u30C8\u6226\u3088\u308A\u30B3\u30B9\u30C8\u3092\u542B\u3080\u3088\u308A\u591A\u304F\u306E\u6226\u5229\u54C1\u3092\u7372\u5F97\u3057\u307E\u3059\u3002\n-
+    \u6575\u306E\u907A\u7269\u306E\u30C7\u30D0\u30D5\u4FC2\u6570\u3092\u4E0B\u3052\u308B\u6226\u5229\u54C1\u3092\u5165\u624B\u3067\u304D\u308B\u5834\u5408\u304C\u3042\u308A\u307E\u3059\u3002"
+  PT_BRTitle: 
+  PT_BRDesc: "A forma\xE7\xE3o que obtiver a maior pontua\xE7\xE3o dentro do tempo
+    de combate vence. Se as pontua\xE7\xF5es estiverem empatadas ap\xF3s o limite
+    de tempo, a forma\xE7\xE3o que primeiro aumentar sua pontua\xE7\xE3o em pelo
+    menos 1 ponto vence.\n\nO custo de cada unidade \xE9 convertido em pontua\xE7\xE3o,
+    e o tempo de combate varia dependendo se o combate \xE9 Normal, Elite ou Chefe.\n\nO
+    saque difere conforme o tipo de encontro.\n\n<b>Encontro Normal</b>\n- Receba
+    saque b\xE1sico.\n\n<b>Encontro Elite</b>\n- Concede mais recompensas do que
+    encontros normais, exceto custos.\n- Voc\xEA pode obter saques que aumentam o
+    peso das rel\xEDquias aliadas.\n\n<b>Encontro Chefe</b>\n- Concede mais saque
+    do que encontros elite, incluindo custos.\n- Voc\xEA pode obter saques que reduzem
+    o multiplicador de debuff das rel\xEDquias inimigas."
+  RUTitle: 
+  RUDesc: "\u041F\u043E\u0431\u0435\u0436\u0434\u0430\u0435\u0442 \u0442\u0430 \u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F,
+    \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043D\u0430\u0431\u0440\u0430\u043B\u0430
+    \u0431\u043E\u043B\u044C\u0448\u0435 \u043E\u0447\u043A\u043E\u0432 \u0432 \u043F\u0440\u0435\u0434\u0435\u043B\u0430\u0445
+    \u0432\u0440\u0435\u043C\u0435\u043D\u0438 \u0431\u043E\u044F. \u0415\u0441\u043B\u0438
+    \u043F\u043E\u0441\u043B\u0435 \u0438\u0441\u0442\u0435\u0447\u0435\u043D\u0438\u044F
+    \u0432\u0440\u0435\u043C\u0435\u043D\u0438 \u043E\u0447\u043A\u0438 \u0440\u0430\u0432\u043D\u044B,
+    \u043F\u043E\u0431\u0435\u0436\u0434\u0430\u0435\u0442 \u0442\u0430 \u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F,
+    \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0435\u0440\u0432\u043E\u0439
+    \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u043B\u0430 \u0441\u0432\u043E\u0439
+    \u0441\u0447\u0451\u0442 \u043A\u0430\u043A \u043C\u0438\u043D\u0438\u043C\u0443\u043C
+    \u043D\u0430 1.\n\n\u0421\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u044C \u043A\u0430\u0436\u0434\u043E\u0433\u043E
+    \u044E\u043D\u0438\u0442\u0430 \u043F\u0435\u0440\u0435\u0432\u043E\u0434\u0438\u0442\u0441\u044F
+    \u0432 \u043E\u0447\u043A\u0438, \u0430 \u0432\u0440\u0435\u043C\u044F \u0431\u043E\u044F
+    \u0432\u0430\u0440\u044C\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0438
+    \u043E\u0442 \u0442\u0438\u043F\u0430 \u0441\u0440\u0430\u0436\u0435\u043D\u0438\u044F
+    (\u041E\u0431\u044B\u0447\u043D\u043E\u0435 / \u042D\u043B\u0438\u0442\u0430
+    / \u0411\u043E\u0441\u0441).\n\n\u0414\u043E\u0431\u044B\u0447\u0430 \u0440\u0430\u0437\u043B\u0438\u0447\u0430\u0435\u0442\u0441\u044F
+    \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0438 \u043E\u0442
+    \u0442\u0438\u043F\u0430 \u0441\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u044F.\n\n<b>\u041E\u0431\u044B\u0447\u043D\u043E\u0435
+    \u0441\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u0435</b>\n-
+    \u041F\u043E\u043B\u0443\u0447\u0430\u0435\u0442\u0435 \u0431\u0430\u0437\u043E\u0432\u0443\u044E
+    \u0434\u043E\u0431\u044B\u0447\u0443.\n\n<b>\u042D\u043B\u0438\u0442\u043D\u043E\u0435
+    \u0441\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u0435</b>\n-
+    \u0414\u0430\u0451\u0442 \u0431\u043E\u043B\u044C\u0448\u0435 \u043D\u0430\u0433\u0440\u0430\u0434,
+    \u0447\u0435\u043C \u043E\u0431\u044B\u0447\u043D\u044B\u0435 \u0441\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u044F,
+    \u0437\u0430 \u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435\u043C
+    \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u0438.\n- \u041C\u043E\u0436\u043D\u043E
+    \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C \u0434\u043E\u0431\u044B\u0447\u0443,
+    \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u044E\u0449\u0443\u044E
+    \u0432\u0435\u0441 \u0441\u043E\u044E\u0437\u043D\u044B\u0445 \u0440\u0435\u043B\u0438\u043A\u0432\u0438\u0439.\n\n<b>\u0411\u043E\u0439
+    \u0441 \u0431\u043E\u0441\u0441\u043E\u043C</b>\n- \u0414\u0430\u0451\u0442 \u0431\u043E\u043B\u044C\u0448\u0435
+    \u0434\u043E\u0431\u044B\u0447\u0438, \u0447\u0435\u043C \u044D\u043B\u0438\u0442\u043D\u044B\u0435
+    \u0441\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u044F, \u0432\u043A\u043B\u044E\u0447\u0430\u044F
+    \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u044C.\n- \u041C\u043E\u0436\u043D\u043E
+    \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C \u0434\u043E\u0431\u044B\u0447\u0443,
+    \u0443\u043C\u0435\u043D\u044C\u0448\u0430\u044E\u0449\u0443\u044E \u043A\u043E\u044D\u0444\u0444\u0438\u0446\u0438\u0435\u043D\u0442
+    \u0434\u0435\u0431\u0430\u0444\u0430 \u0432\u0440\u0430\u0436\u0435\u0441\u043A\u0438\u0445
+    \u0440\u0435\u043B\u0438\u043A\u0432\u0438\u0439."
+  ZH_HANSTitle: 
+  ZH_HANSDesc: "\u5728\u6218\u6597\u65F6\u95F4\u5185\u83B7\u5F97\u66F4\u9AD8\u5206\u6570\u7684\u9635\u578B\u83B7\u80DC\u3002\u65F6\u95F4\u7ED3\u675F\u540E\u82E5\u6BD4\u5206\u76F8\u540C\uFF0C\u5219\u5148\u5C06\u5206\u6570\u63D0\u5347\u81F3\u5C111\u70B9\u7684\u4E00\u65B9\u83B7\u80DC\u3002\n\n\u6BCF\u4E2A\u5355\u4F4D\u7684\u8D39\u7528\u5C06\u8F6C\u6362\u4E3A\u5F97\u5206\uFF0C\u6218\u6597\u65F6\u95F4\u4F1A\u6839\u636E\u6218\u6597\u7C7B\u578B\uFF08\u666E\u901A
+    / \u7CBE\u82F1 / \u9996\u9886\uFF09\u800C\u4E0D\u540C\u3002\n\n\u6389\u843D\u4F1A\u6839\u636E\u906D\u9047\u7C7B\u578B\u6709\u6240\u4E0D\u540C\u3002\n\n<b>\u666E\u901A\u6218</b>\n-
+    \u83B7\u5F97\u57FA\u7840\u6389\u843D\u3002\n\n<b>\u7CBE\u82F1\u6218</b>\n- \u83B7\u5F97\u6BD4\u666E\u901A\u6218\u66F4\u591A\u7684\u5956\u52B1\uFF0C\u4F46\u4E0D\u5305\u62EC\u8D39\u7528\u3002\n-
+    \u6709\u53EF\u80FD\u83B7\u5F97\u589E\u52A0\u53CB\u65B9\u9057\u7269\u6743\u91CD\u7684\u6389\u843D\u3002\n\n<b>\u9996\u9886\u6218</b>\n-
+    \u83B7\u5F97\u6BD4\u7CBE\u82F1\u6218\u66F4\u591A\u7684\u6389\u843D\uFF0C\u5305\u62EC\u8D39\u7528\u5728\u5185\u3002\n-
+    \u6709\u53EF\u80FD\u83B7\u5F97\u964D\u4F4E\u654C\u65B9\u9057\u7269\u51CF\u76CA\u7CFB\u6570\u7684\u6389\u843D\u3002"

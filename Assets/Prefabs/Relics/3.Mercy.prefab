@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3578639330835516847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7444675206163884885}
+  - component: {fileID: 8454732419693468007}
+  - component: {fileID: 5988210919278537711}
+  - component: {fileID: -5406529226999189814}
+  m_Layer: 5
+  m_Name: 3.Mercy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &7444675206163884885
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 55, y: 55}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8454732419693468007
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_CullTransparentMesh: 1
+--- !u!114 &5988210919278537711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 745738b8ab9f2a148b273d36824e3579, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &-5406529226999189814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578639330835516847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49b393f09ba550d4fa934d5f206aef4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: 2
+  relicsName: "\uCE74\uB9C8\uC5D8(\uC790\uC120)\uC758 \uC720\uBB3C"
+  desc: "\uC790\uBE44\uB85C\uC6B4 \uC720\uB2DB\uC5D0\uAC8C \uAC15\uD55C \uBC84\uD504\uB97C
+    \uBD80\uC5EC\uD569\uB2C8\uB2E4."
+  ENRelicsName: Relic of Kamael (Charity)
+  ENDesc: Grants a strong buff to Merciful units.
+  FRRelicsName: "Relique de Kamael (Charit\xE9)"
+  FRDesc: "Conf\xE8re un bonus puissant aux unit\xE9s compatissantes."
+  ITRelicsName: "Reliquia di Kamael (Carit\xE0)"
+  ITDesc: "Conferisce un potenziamento forte alle unit\xE0 misericordiose."
+  DERelicsName: "Relikt von Kamael (N\xE4chstenliebe)"
+  DEDesc: Verleiht barmherzigen Einheiten einen starken Buff.
+  ESRelicsName: Reliquia de Kamael (Caridad)
+  ESDesc: Otorga un beneficio fuerte a las unidades misericordiosas.
+  JARelicsName: "\u30AB\u30DE\u30A8\u30EB\uFF08\u6148\u5584\uFF09\u306E\u907A\u7269"
+  JADesc: "\u6148\u60B2\u6DF1\u3044\u30E6\u30CB\u30C3\u30C8\u306B\u5F37\u529B\u306A\u30D0\u30D5\u3092\u4ED8\u4E0E\u3057\u307E\u3059\u3002"
+  PT_BRRelicsName: "Rel\xEDquia de Kamael (Caridade)"
+  PT_BRDesc: "Concede um buff forte \xE0s unidades misericordiosas."
+  RURelicsName: "\u0420\u0435\u043B\u0438\u043A\u0432\u0438\u044F \u041A\u0430\u043C\u0430\u044D\u043B\u044F
+    (\u0411\u043B\u0430\u0433\u043E\u0442\u0432\u043E\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C)"
+  RUDesc: "\u0414\u0430\u0451\u0442 \u0441\u0438\u043B\u044C\u043D\u044B\u0439 \u0431\u0430\u0444\u0444
+    \u043C\u0438\u043B\u043E\u0441\u0435\u0440\u0434\u043D\u044B\u043C \u044E\u043D\u0438\u0442\u0430\u043C."
+  ZH_HANSRelicsName: "\u5361\u739B\u57C3\u5C14\uFF08\u6148\u5584\uFF09\u4E4B\u9057\u7269"
+  ZH_HANSDesc: "\u7ED9\u4E88\u4EC1\u6148\u5355\u4F4D\u5F3A\u529B\u589E\u76CA\u3002"
+  isActive: 0

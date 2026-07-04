@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ce6e8d0dd8878b8488b53cf5f043d968
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attackAnimClip: {instanceID: 0}
+  - skillAnimClip: {instanceID: 0}
+  - bulletAnimClip: {instanceID: 0}
+  - skillBulletAnimClip: {instanceID: 0}
+  - attackSoundClip: {instanceID: 0}
+  - skillSoundClip: {instanceID: 0}
+  - bulletHitClip: {instanceID: 0}
+  - skillBulletHitClip: {instanceID: 0}
+  - moveClip: {instanceID: 0}
+  - enemiesField: {instanceID: 0}
+  - uiStateBar: {instanceID: 0}
+  - stateImg: {instanceID: 0}
+  - levelEffect: {instanceID: 0}
+  - tauntUnit: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

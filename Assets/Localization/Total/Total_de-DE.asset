@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Total_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 27f6999f58bb5404ab61afee1b46b13c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13959844823040
+    m_Localized: Einheitenliste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13961749037056
+    m_Localized: Einheit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13964034932736
+    m_Localized: Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13992631697408
+    m_Localized: Erhaltener Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13994070343680
+    m_Localized: Heilung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13998084292608
+    m_Localized: Stufe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14072029872128
+    m_Localized: Spielzeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14075280457728
+    m_Localized: Nicht mehr anzeigen
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
